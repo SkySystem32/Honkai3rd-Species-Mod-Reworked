@@ -1,0 +1,36 @@
+# Generated species derive their names from here
+
+Houkai3rd = {
+	Destiny = {
+		language = "l_simp_chinese"
+		name = 天命
+		plural = 天命
+		home_planet = Earth
+		home_system = Sol
+		name_list = "mammalian_01"
+	}
+	Destiny = {
+		language = "l_simp_chinese"
+		name = 天命
+		plural = 天命
+		home_planet = 圣芙蕾雅学园
+		home_system = 极东支部
+		name_list = "mammalian_01"
+	}
+	Destiny = {
+		language = "l_simp_chinese"
+		name = 天命
+		plural = 天命
+		home_planet = 圣芙蕾雅学园
+		home_system = 休伯利安
+		name_list = "mammalian_01"
+	}
+	Anti-entropy = {
+		language = "l_simp_chinese"
+		name = 逆熵
+		plural = 逆熵
+		home_planet = 普林斯顿
+		home_system = 逆熵指挥部
+		name_list = "mammalian_01"
+	}
+}

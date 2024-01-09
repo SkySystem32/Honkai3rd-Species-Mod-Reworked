@@ -1,0 +1,20 @@
+component_set = {
+	key = "CROSS_RANGER"
+	
+	icon = "GFX_ship_part_strike_craft_ranger"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "CROSS_ELIUDNIR"
+	
+	icon = "GFX_ship_part_strike_craft_eliudnir"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "CROSS_11TH"
+	
+	icon = "GFX_ship_part_strike_craft_11th"
+	icon_frame = 1
+}

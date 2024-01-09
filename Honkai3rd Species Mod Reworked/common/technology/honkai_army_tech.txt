@@ -1,0 +1,29 @@
+
+tech_herrscher_army = {
+	cost = @tier5cost1
+	area = society
+	tier = 5
+	category = { honkai }
+	weight = @tier5weight1
+	is_rare = yes
+	
+	potential = {
+		is_gestalt = no
+		has_ascension_perk = ap_herrscher
+	}
+}
+
+tech_aemechs = {
+	cost = @tier5cost1
+	area = society
+	tier = 5
+	category = { honkai }
+	weight = @tier5weight1
+	is_rare = yes
+	
+	potential = {
+		is_gestalt = no
+		has_ascension_perk = ap_quantumhonkai
+	}
+}
+

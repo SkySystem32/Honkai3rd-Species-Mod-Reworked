@@ -1,0 +1,70 @@
+###Honkai 3rd energy weapons component set
+component_set = {
+	key = "MIG_7"
+	
+	icon = "GFX_ship_part_mig7"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "CATHODE_9"
+	
+	icon = "GFX_ship_part_cathode"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "QUANTUM_DESTROYER"
+	
+	icon = "GFX_ship_part_quantumdestroyer"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "HEL_BOW"
+	
+	icon = "GFX_ship_part_hel"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "WATER_SPIRIT"
+	
+	icon = "GFX_ship_part_waterspirit"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "LIGHT_SHADOW"
+	
+	icon = "GFX_ship_part_lightshadow"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "2ND_RELIC"
+	
+	icon = "GFX_ship_part_2nd"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "MJOLNIR"
+	
+	icon = "GFX_ship_part_mjolnir"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "ENERGY_LEAPER"
+	
+	icon = "GFX_ship_part_leaper"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "CORE_EVOKER"
+	
+	icon = "GFX_ship_part_coreevoker"
+	icon_frame = 1
+}

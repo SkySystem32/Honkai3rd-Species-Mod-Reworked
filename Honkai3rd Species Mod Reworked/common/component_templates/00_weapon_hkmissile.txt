@@ -1,0 +1,99 @@
+###Honkai 3rd missile
+
+weapon_component_template = {
+	key = "MARKOV_C"
+	size = torpedo
+	entity = "turret_missile_medium_entity"
+	type = missile
+	icon = "GFX_ship_part_markov"
+	icon_frame = 1
+	prerequisites = { "tech_markovtc" }
+	component_set = "MARKOV_C"
+	projectile_gfx = "swarmer_missiles"
+	tags = { weapon_type_explosive }
+	upgrades_to = "RAIDER"
+	ai_tags = { weapon_role_artillery }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @m_t3_cost
+		}		
+		upkeep = {
+			energy = @m_t3_upkeep_energy
+			alloys = @m_t3_upkeep_alloys
+		}
+	}
+	
+	damage = { min = 25 max = 38 }
+	windup = {min = 1 max = 15 }
+	#total_fire_time = 
+	range = 105
+	accuracy = 1
+	power = -19
+	
+	hull_damage = 1
+	armor_damage = 1
+	shield_damage = 2
+	total_fire_time = 30
+	tracking = 0.3
+	
+	missile_speed = 450
+	missile_evasion = 0
+	missile_shield = 0
+	missile_armor = 0
+	missile_health = 35
+	missile_retarget_range =100
+	
+	firing_arc = 360
+	use_ship_kill_target = no
+}
+
+weapon_component_template = {
+	key = "RAIDER"
+	size = torpedo
+	entity = "turret_missile_medium_entity"
+	type = missile
+	icon = "GFX_ship_part_raider"
+	icon_frame = 1
+	prerequisites = { "tech_raider" }
+	component_set = "RAIDER"
+	projectile_gfx = "swarmer_missiles_02"
+	tags = { weapon_type_explosive }
+	upgrades_to = "RAIDER"
+	ai_tags = { weapon_role_artillery }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @m_t5_cost
+			volatile_motes = @m_t5_rare
+			honkai_energy = @m_t5_rare
+		}		
+		upkeep = {
+			energy = @m_t5_upkeep_energy
+			alloys = @m_t5_upkeep_alloys
+		}
+	}
+	
+	damage = { min = 38 max = 60 }
+	windup = {min = 1 max = 15 }
+	#total_fire_time = 
+	range = 110
+	accuracy = 1
+	power = -29
+	
+	hull_damage = 1
+	armor_damage = 1.2
+	shield_damage = 2
+	total_fire_time = 30
+	tracking = 0.3
+	
+	missile_speed = 500
+	missile_evasion = 0
+	missile_shield = 0
+	missile_armor = 0
+	missile_health = 43
+	missile_retarget_range =110
+	
+	firing_arc = 360
+	use_ship_kill_target = no
+}

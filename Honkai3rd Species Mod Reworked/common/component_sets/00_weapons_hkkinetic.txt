@@ -1,0 +1,64 @@
+###Honkai 3rd component set
+#Kinetic
+component_set = {
+	key = "CYCLOPS"
+	
+	icon = "GFX_ship_part_cyclops"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "PROJECT_BUNNY"
+	
+	icon = "GFX_ship_part_projectbunny"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "TYR_HAND"
+	
+	icon = "GFX_ship_part_tyr"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "5TH_RELIC"
+	
+	icon = "GFX_ship_part_5th"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "ALBERICH_BOW"
+	
+	icon = "GFX_ship_part_alberich"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "AICHAN_CANNON"
+	
+	icon = "GFX_ship_part_aichan"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "STAR_DESTROYER"
+	
+	icon = "GFX_ship_part_stardestroyer"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "BLAZE_DESTROYER"
+	
+	icon = "GFX_ship_part_blaze"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "HYPER_RAILGUN"
+	
+	icon = "GFX_ship_part_hyperrailgun"
+	icon_frame = 1
+}

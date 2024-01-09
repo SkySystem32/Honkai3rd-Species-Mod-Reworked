@@ -1,0 +1,201 @@
+###崩坏炉
+hk_building_honkai_powerplant = {
+	base_buildtime = @b2_time
+	base_cap_amount = 1
+	category = manufacturing
+	potential = {
+		exists = owner
+		owner = { is_regular_empire = yes }
+		NOR = {
+			has_modifier = resort_colony
+			has_modifier = slave_colony
+			has_modifier = crucible_colony
+		}
+	}
+
+	allow = {
+		has_upgraded_capital = yes
+	}
+
+
+	### 这里实现方式不对
+	planet_modifier = {
+		job_honkai_worker_add = 3
+	}
+
+	#inline_script = {
+	#	script = jobs/farmers_add
+	#	FARMER_AMOUNT = 1
+	#	ANGLER_AMOUNT = 1
+	#}
+
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 600
+			energy = 850
+			alloys = 150
+		}
+		upkeep = {
+			energy = 3
+			minerals = 2
+		}
+	}
+	triggered_desc = {
+		text = job_honkai_worker_effect_desc
+	}
+	
+	prerequisites = {
+		tech_honkai_energy
+	}
+	
+	upgrades = {
+		hk_building_advanced_honkai_powerplant
+	}
+
+}
+
+hk_building_advanced_honkai_powerplant = {
+	base_buildtime = @b3_time
+	base_cap_amount = 1
+	can_build = no
+	category = manufacturing
+	potential = {
+		exists = owner
+		owner = { is_regular_empire = yes }
+		NOR = {
+			has_modifier = resort_colony
+			has_modifier = slave_colony
+			has_modifier = crucible_colony
+		}
+	}
+
+	allow = {
+		has_major_upgraded_capital = yes
+	}
+	
+	planet_modifier = {
+		job_honkai_worker_add = 6
+	}
+	
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 800
+			energy = 1000
+			alloys = 250
+		}
+		upkeep = {
+			energy = 6
+			minerals = 3
+		}
+	}
+	triggered_desc = {
+		text = job_honkai_worker_effect_desc
+	}
+	
+	prerequisites = {
+		tech_honkai_core1
+	}
+	
+	upgrades = {
+		hk_building_national_honkai_powerplant
+	}
+
+}
+
+hk_building_national_honkai_powerplant = {
+	base_buildtime = @b4_time
+	base_cap_amount = 1
+	can_build = no
+	category = manufacturing
+	potential = {
+		exists = owner
+		owner = { is_regular_empire = yes }
+		NOR = {
+			has_modifier = resort_colony
+			has_modifier = slave_colony
+			has_modifier = crucible_colony
+		}
+	}
+
+	allow = {
+		num_pops >= 35
+		has_major_upgraded_capital = yes
+	}
+	
+	planet_modifier = {
+		job_honkai_worker_add = 8
+		job_researcher_add = 2
+	}
+	
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 1096
+			energy = 1296
+			alloys = 648
+		}
+		upkeep = {
+			energy = 8
+			minerals = 5
+		}
+	}
+	triggered_desc = {
+		text = job_honkai_worker_effect_desc
+	}
+	
+	prerequisites = {
+		tech_honkai_core2
+	}
+
+}
+
+hk_building_honkai_nexus = {
+	base_buildtime = 1350
+	base_cap_amount = 1
+	category = research
+	potential = {
+		exists = owner
+		owner = { is_regular_empire = yes }
+		NOR = {
+			has_modifier = resort_colony
+			has_modifier = slave_colony
+			has_modifier = crucible_colony
+		}
+	}
+
+	allow = {
+		num_pops >= 50
+		has_major_upgraded_capital = yes
+	}
+	
+	planet_modifier = {
+		job_researcher_add = 16
+		planet_jobs_productive_upkeep_mult = 0.1
+		planet_jobs_productive_produces_mult = 0.1
+	}
+	
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2000
+			energy = 2000
+			alloys = 1000
+		}
+		upkeep = {
+			energy = 16
+			minerals = 10
+			honkai_energy = 10
+		}
+	}
+	triggered_desc = {
+		text = honkai_nexus_effect_desc
+	}
+	
+	prerequisites = {
+		tech_honkai_centre
+	}
+
+}

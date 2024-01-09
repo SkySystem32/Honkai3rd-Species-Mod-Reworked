@@ -1,0 +1,715 @@
+###Honkai weapon models
+##Kinetic
+weapon_component_template = {
+	key = "SMALL_CYCLOPS"
+	size = small
+	entity = "small_kinetic_gun_entity"
+	type = instant
+	icon = "GFX_ship_part_cyclops"
+	icon_frame = 1
+	prerequisites = { "tech_cyclops" }
+	component_set = "CYCLOPS"
+	projectile_gfx = "railgun_s"
+	tags = { weapon_type_kinetic }
+	upgrades_to = "SMALL_PROJECT_BUNNY"
+	ai_tags = { weapon_role_anti_shield }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @s_t3_cost
+		}		
+		upkeep = {
+			energy = @s_t3_upkeep_energy
+			alloys = @s_t3_upkeep_alloys
+		}
+	}
+	
+	damage = { min = 10 max = 32 }
+	windup = {min = 2 max = 20 }
+	#total_fire_time = 
+	range = 55
+	accuracy = 0.75
+	power = -12
+	
+	hull_damage = 1
+	armor_damage = 0.55
+	shield_damage = 1.55
+	total_fire_time = 25
+	tracking = 0.5
+	
+	firing_arc = 360
+	use_ship_kill_target = no
+}
+
+weapon_component_template = {
+	key = "MEDIUM_CYCLOPS"
+	size = medium
+	entity = "medium_kinetic_gun_entity"
+	type = instant
+	icon = "GFX_ship_part_cyclops"
+	icon_frame = 1
+	prerequisites = { "tech_cyclops" }
+	component_set = "CYCLOPS"
+	projectile_gfx = "railgun_m"
+	tags = { weapon_type_kinetic }
+	upgrades_to = "MEDIUM_PROJECT_BUNNY"
+	ai_tags = { weapon_role_anti_shield }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @m_t3_cost
+		}		
+		upkeep = {
+			energy = @m_t3_upkeep_energy
+			alloys = @m_t3_upkeep_alloys
+		}
+	}
+	
+	damage = { min = 25 max = 72 }
+	windup = {min = 2 max = 20 }
+	#total_fire_time = 
+	range = 80
+	accuracy = 0.75
+	power = -19
+	
+	hull_damage = 1
+	armor_damage = 0.55
+	shield_damage = 1.55
+	total_fire_time = 25
+	tracking = 0.3
+	
+	firing_arc = 360
+	use_ship_kill_target = no
+}
+
+weapon_component_template = {
+	key = "LARGE_CYCLOPS"
+	size = large
+	entity = "large_kinetic_gun_entity"
+	type = instant
+	icon = "GFX_ship_part_cyclops"
+	icon_frame = 1
+	prerequisites = { "tech_cyclops" }
+	component_set = "CYCLOPS"
+	projectile_gfx = "railgun_l"
+	tags = { weapon_type_kinetic }
+	upgrades_to = "LARGE_PROJECT_BUNNY"
+	ai_tags = { weapon_role_anti_shield }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @l_t3_cost
+		}		
+		upkeep = {
+			energy = @l_t3_upkeep_energy
+			alloys = @l_t3_upkeep_alloys
+		}
+	}
+	
+	damage = { min = 52 max = 170 }
+	windup = {min = 2 max = 20 }
+	#total_fire_time = 
+	range = 105
+	accuracy = 0.75
+	power = -36
+	
+	hull_damage = 1
+	armor_damage = 0.55
+	shield_damage = 1.55
+	total_fire_time = 25
+	tracking = 0.05
+	
+	firing_arc = 360
+	use_ship_kill_target = no
+}
+
+weapon_component_template = {
+	key = "SMALL_PROJECT_BUNNY"
+	size = small
+	entity = "small_kinetic_gun_entity"
+	type = instant
+	icon = "GFX_ship_part_projectbunny"
+	icon_frame = 1
+	prerequisites = { "tech_project_bunny" }
+	component_set = "PROJECT_BUNNY"
+	projectile_gfx = "advanced_railgun_s"
+	tags = { weapon_type_kinetic }
+	upgrades_to = "SMALL_TYR_HAND"
+	ai_tags = { weapon_role_anti_shield }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @s_t4_cost
+			volatile_motes = @s_t4_rare
+			honkai_energy = @s_t4_rare
+		}		
+		upkeep = {
+			energy = @s_t4_upkeep_energy
+			alloys = @s_t4_upkeep_alloys
+		}
+	}
+	
+	damage = { min = 14 max = 38 }
+	windup = {min = 2 max = 20 }
+	#total_fire_time = 
+	range = 55
+	accuracy = 0.75
+	power = -15
+	
+	hull_damage = 1
+	armor_damage = 0.55
+	shield_damage = 1.55
+	total_fire_time = 25
+	tracking = 0.5
+	
+	firing_arc = 360
+	use_ship_kill_target = no
+}
+
+weapon_component_template = {
+	key = "MEDIUM_PROJECT_BUNNY"
+	size = medium
+	entity = "medium_kinetic_gun_entity"
+	type = instant
+	icon = "GFX_ship_part_projectbunny"
+	icon_frame = 1
+	prerequisites = { "tech_project_bunny" }
+	component_set = "PROJECT_BUNNY"
+	projectile_gfx = "advanced_railgun_m"
+	tags = { weapon_type_kinetic }
+	upgrades_to = "MEDIUM_TYR_HAND"
+	ai_tags = { weapon_role_anti_shield }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @m_t4_cost
+			volatile_motes = @m_t4_rare
+			honkai_energy = @s_t4_rare
+		}		
+		upkeep = {
+			energy = @m_t4_upkeep_energy
+			alloys = @m_t4_upkeep_alloys
+		}
+	}
+	
+	damage = { min = 30 max = 95 }
+	windup = {min = 2 max = 20 }
+	#total_fire_time = 
+	range = 80
+	accuracy = 0.75
+	power = -25
+	
+	hull_damage = 1
+	armor_damage = 0.55
+	shield_damage = 1.55
+	total_fire_time = 25
+	tracking = 0.3
+	
+	firing_arc = 360
+	use_ship_kill_target = no
+}
+
+weapon_component_template = {
+	key = "LARGE_PROJECT_BUNNY"
+	size = large
+	entity = "large_kinetic_gun_entity"
+	type = instant
+	icon = "GFX_ship_part_projectbunny"
+	icon_frame = 1
+	prerequisites = { "tech_project_bunny" }
+	component_set = "PROJECT_BUNNY"
+	projectile_gfx = "advanced_railgun_l"
+	tags = { weapon_type_kinetic }
+	upgrades_to = "LARGE_TYR_HAND"
+	ai_tags = { weapon_role_anti_shield }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @l_t4_cost
+			volatile_motes = @l_t4_rare
+			honkai_energy = @l_t4_rare
+		}		
+		upkeep = {
+			energy = @l_t4_upkeep_energy
+			alloys = @l_t4_upkeep_alloys
+		}
+	}
+	
+	damage = { min = 73 max = 230 }
+	windup = {min = 2 max = 20 }
+	#total_fire_time = 
+	range = 105
+	accuracy = 0.75
+	power = -47
+	
+	hull_damage = 1
+	armor_damage = 0.55
+	shield_damage = 1.55
+	total_fire_time = 25
+	tracking = 0.05
+	
+	firing_arc = 360
+	use_ship_kill_target = no
+}
+
+weapon_component_template = {
+	key = "SMALL_TYR_HAND"
+	size = small
+	entity = "small_kinetic_gun_entity"
+	type = instant
+	icon = "GFX_ship_part_tyr"
+	icon_frame = 1
+	prerequisites = { "tech_tyr" }
+	component_set = "TYR_HAND"
+	projectile_gfx = "gauss_cannon_s"
+	tags = { weapon_type_kinetic }
+	ai_tags = { weapon_role_anti_shield }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @s_t5_cost
+			volatile_motes = @s_t5_rare
+			honkai_energy = @s_t5_rare
+		}		
+		upkeep = {
+			energy = @s_t5_upkeep_energy
+			alloys = @s_t5_upkeep_alloys
+		}
+	}
+	
+	damage = { min = 18 max = 53 }
+	windup = {min = 2 max = 20 }
+	#total_fire_time = 
+	range = 55
+	accuracy = 0.75
+	power = -20
+	
+	hull_damage = 1
+	armor_damage = 0.55
+	shield_damage = 1.55
+	total_fire_time = 25
+	tracking = 0.5
+	
+	firing_arc = 360
+	use_ship_kill_target = no
+}
+
+weapon_component_template = {
+	key = "MEDIUM_TYR_HAND"
+	size = medium
+	entity = "medium_kinetic_gun_entity"
+	type = instant
+	icon = "GFX_ship_part_tyr"
+	icon_frame = 1
+	prerequisites = { "tech_tyr" }
+	component_set = "TYR_HAND"
+	projectile_gfx = "gauss_cannon_m"
+	tags = { weapon_type_kinetic }
+	ai_tags = { weapon_role_anti_shield }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @m_t5_cost
+			volatile_motes = @m_t5_rare
+			honkai_energy = @m_t5_rare
+		}		
+		upkeep = {
+			energy = @m_t5_upkeep_energy
+			alloys = @m_t5_upkeep_alloys
+		}
+	}
+	
+	damage = { min = 40 max = 130 }
+	windup = {min = 2 max = 20 }
+	#total_fire_time = 
+	range = 80
+	accuracy = 0.75
+	power = -33
+	
+	hull_damage = 1
+	armor_damage = 0.55
+	shield_damage = 1.55
+	total_fire_time = 25
+	tracking = 0.3
+	
+	firing_arc = 360
+	use_ship_kill_target = no
+}
+
+weapon_component_template = {
+	key = "LARGE_TYR_HAND"
+	size = large
+	entity = "large_kinetic_gun_entity"
+	type = instant
+	icon = "GFX_ship_part_tyr"
+	icon_frame = 1
+	prerequisites = { "tech_tyr" }
+	component_set = "TYR_HAND"
+	projectile_gfx = "gauss_cannon_l"
+	tags = { weapon_type_kinetic }
+	ai_tags = { weapon_role_anti_shield }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @l_t5_cost
+			volatile_motes = @l_t5_rare
+			honkai_energy = @l_t5_rare
+		}		
+		upkeep = {
+			energy = @l_t5_upkeep_energy
+			alloys = @l_t5_upkeep_alloys
+		}
+	}
+	
+	damage = { min = 100 max = 300 }
+	windup = {min = 2 max = 20 }
+	#total_fire_time = 
+	range = 105
+	accuracy = 0.75
+	power = -62
+	
+	hull_damage = 1
+	armor_damage = 0.55
+	shield_damage = 1.55
+	total_fire_time = 25
+	tracking = 0.05
+	
+	firing_arc = 360
+	use_ship_kill_target = no
+}
+
+weapon_component_template = {
+	key = "SMALL_5TH_RELIC"
+	size = small
+	entity = "small_kinetic_gun_entity"
+	type = instant
+	icon = "GFX_ship_part_5th"
+	icon_frame = 1
+	prerequisites = { "tech_5threlic" }
+	component_set = "5TH_RELIC"
+	projectile_gfx = "gauss_cannon_s"
+	tags = { weapon_type_kinetic }
+	ai_tags = { weapon_role_anti_shield }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @s_t6_cost
+			volatile_motes = @s_t6_rare
+			honkai_energy = @s_t6_rare
+		}		
+		upkeep = {
+			energy = @s_t6_upkeep_energy
+			alloys = @s_t6_upkeep_alloys
+		}
+	}
+	
+	damage = { min = 21 max = 57 }
+	windup = {min = 2 max = 20 }
+	#total_fire_time = 
+	range = 60
+	accuracy = 0.75
+	power = -25
+	
+	hull_damage = 1
+	armor_damage = 0.7
+	shield_damage = 1.6
+	total_fire_time = 23
+	tracking = 0.5
+	
+	firing_arc = 360
+	use_ship_kill_target = no
+}
+
+weapon_component_template = {
+	key = "MEDIUM_5TH_RELIC"
+	size = medium
+	entity = "small_kinetic_gun_entity"
+	type = instant
+	icon = "GFX_ship_part_5th"
+	icon_frame = 1
+	prerequisites = { "tech_5threlic" }
+	component_set = "5TH_RELIC"
+	projectile_gfx = "gauss_cannon_m"
+	tags = { weapon_type_kinetic }
+	ai_tags = { weapon_role_anti_shield }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @m_t6_cost
+			volatile_motes = @m_t6_rare
+			honkai_energy = @m_t6_rare
+		}		
+		upkeep = {
+			energy = @m_t6_upkeep_energy
+			alloys = @m_t6_upkeep_alloys
+		}
+	}
+	
+	damage = { min = 50 max = 142 }
+	windup = {min = 2 max = 20 }
+	#total_fire_time = 
+	range = 60
+	accuracy = 0.75
+	power = -38
+	
+	hull_damage = 1
+	armor_damage = 0.7
+	shield_damage = 1.6
+	total_fire_time = 23
+	tracking = 0.3
+	
+	firing_arc = 360
+	use_ship_kill_target = no
+}
+
+weapon_component_template = {
+	key = "LARGE_5TH_RELIC"
+	size = large
+	entity = "small_kinetic_gun_entity"
+	type = instant
+	icon = "GFX_ship_part_5th"
+	icon_frame = 1
+	prerequisites = { "tech_5threlic" }
+	component_set = "5TH_RELIC"
+	projectile_gfx = "gauss_cannon_l"
+	tags = { weapon_type_kinetic }
+	ai_tags = { weapon_role_anti_shield }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @l_t6_cost
+			volatile_motes = @l_t6_rare
+			honkai_energy = @l_t6_rare
+		}		
+		upkeep = {
+			energy = @l_t6_upkeep_energy
+			alloys = @l_t6_upkeep_alloys
+		}
+	}
+	
+	damage = { min = 115 max = 328 }
+	windup = {min = 2 max = 20 }
+	#total_fire_time = 
+	range = 60
+	accuracy = 0.75
+	power = -67
+	
+	hull_damage = 1
+	armor_damage = 0.7
+	shield_damage = 1.6
+	total_fire_time = 23
+	tracking = 0.05
+	
+	firing_arc = 360
+	use_ship_kill_target = no
+}
+
+weapon_component_template = {
+	key = "PD_ALBERICH_BOW"
+	size = point_defence
+	entity = "small_kinetic_gun_entity"
+	type = instant
+	icon = "GFX_ship_part_alberich"
+	icon_frame = 1
+	prerequisites = { "tech_alberich_bow" }
+	component_set = "ALBERICH_BOW"
+	projectile_gfx = "flak_pd_3"
+	tags = { weapon_type_kinetic }
+	ai_tags = { weapon_role_point_defense }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = 15
+			honkai_energy = @s_t5_rare
+		}		
+		upkeep = {
+			energy = 0.15
+			alloys = 0.015
+		}
+	}
+	
+	damage = { min = 3 max = 7 }
+	windup = {min = 0 max = 0 }
+	#total_fire_time = 
+	range = 32
+	accuracy = 0.78
+	power = -12
+	
+	hull_damage = 1
+	armor_damage = 0.25
+	shield_damage = 1
+	total_fire_time = 5
+	tracking = 0.7
+	
+	firing_arc = 360
+	use_ship_kill_target = no
+}
+
+weapon_component_template = {
+	key = "SMALL_BLAZE_DESTROYER"
+	size = small
+	entity = "small_kinetic_gun_entity"
+	type = instant
+	icon = "GFX_ship_part_blaze"
+	icon_frame = 1
+	prerequisites = { "tech_blaze_destroyer" }
+	component_set = "BLAZE_DESTROYER"
+	projectile_gfx = "ripper_auto_cannons_s"
+	tags = { weapon_type_energy }
+	upgrades_to = "SMALL_HYPER_RAILGUN"
+	ai_tags = { weapon_role_anti_shield }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @s_t4_cost
+			volatile_motes = @s_t4_rare
+			honkai_energy = @s_t4_rare
+		}		
+		upkeep = {
+			energy = @s_t4_upkeep_energy
+			alloys = @s_t4_upkeep_alloys
+		}
+	}
+	
+	damage = { min = 12 max = 24 }
+	windup = {min = 2 max = 14 }
+	#total_fire_time = 
+	range = 35
+	accuracy = 0.85
+	power = -15
+	
+	hull_damage = 1.25
+	armor_damage = 1.5
+	shield_damage = 0.25
+	total_fire_time = 15
+	tracking = 0.75
+	
+	firing_arc = 360
+	use_ship_kill_target = no
+}
+
+weapon_component_template = {
+	key = "SMALL_HYPER_RAILGUN"
+	size = small
+	entity = "small_kinetic_gun_entity"
+	type = instant
+	icon = "GFX_ship_part_hyperrailgun"
+	icon_frame = 1
+	prerequisites = { "tech_hyper_railgun" }
+	component_set = "HYPER_RAILGUN"
+	projectile_gfx = "stormfire_auto_cannons_s"
+	tags = { weapon_type_energy }
+	ai_tags = { weapon_role_anti_shield }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @s_t5_cost
+			volatile_motes = @s_t5_rare
+			honkai_energy = @s_t5_rare
+		}		
+		upkeep = {
+			energy = @s_t5_upkeep_energy
+			alloys = @s_t5_upkeep_alloys
+		}
+	}
+	
+	damage = { min = 18 max = 32 }
+	windup = {min = 2 max = 14 }
+	#total_fire_time = 
+	range = 35
+	accuracy = 0.9
+	power = -20
+	
+	hull_damage = 1.3
+	armor_damage = 1.5
+	shield_damage = 0.25
+	total_fire_time = 12
+	tracking = 0.75
+	
+	firing_arc = 360
+	use_ship_kill_target = no
+}
+
+weapon_component_template = {
+	key = "LARGE_AICHAN_CANNON"
+	size = large
+	entity = "large_kinetic_gun_entity"
+	type = instant
+	icon = "GFX_ship_part_aichan"
+	icon_frame = 1
+	prerequisites = { "tech_aichan_cannon" }
+	component_set = "AICHAN_CANNON"
+	projectile_gfx = "adv_kinetic_artillery"
+	tags = { weapon_type_kinetic }
+	ai_tags = { weapon_role_artillery }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @l_t6_cost
+			volatile_motes = @l_t6_rare
+			honkai_energy = @l_t6_rare
+		}		
+		upkeep = {
+			energy = @l_t6_upkeep_energy
+			alloys = @l_t6_upkeep_alloys
+		}
+	}
+	
+	damage = { min = 6 max = 648 }
+	windup = {min = 3 max = 30 }
+	#total_fire_time = 
+	range = 128
+	accuracy = 0.88
+	power = -100
+	
+	hull_damage = 1
+	armor_damage = 1
+	shield_damage = 1
+	total_fire_time = 48
+	tracking = 0
+	
+	firing_arc = 360
+	use_ship_kill_target = no
+}
+
+weapon_component_template = {
+	key = "STAR_DESTROYER"
+	size = extra_large
+	entity = "invisible_turret_entity"
+	type = instant
+	icon = "GFX_ship_part_stardestroyer"
+	icon_frame = 1
+	prerequisites = { "tech_star_destroyer" }
+	component_set = "STAR_DESTROYER"
+	projectile_gfx = "adv_kinetic_artillery"
+	tags = { weapon_type_kinetic }
+	ai_tags = { weapon_role_artillery }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @xl_t6_cost
+			volatile_motes = @xl_t6_rare
+			honkai_energy = @xl_t6_rare
+		}		
+		upkeep = {
+			energy = @xl_t6_upkeep_energy
+			alloys = @xl_t6_upkeep_alloys
+		}
+	}
+	
+	damage = { min = 1100 max = 2880 }
+	windup = {min = 1 max = 20 }
+	#total_fire_time = 
+	range = 150
+	accuracy = 0.8
+	power = -328
+	
+	hull_damage = 1.3
+	armor_damage = 0.75
+	shield_damage = 1.6
+	total_fire_time = 82
+	tracking = 0
+	
+	firing_arc = 15
+	use_ship_kill_target = no
+}

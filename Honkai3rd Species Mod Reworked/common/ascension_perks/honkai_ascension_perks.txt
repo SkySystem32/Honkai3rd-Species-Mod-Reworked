@@ -1,0 +1,91 @@
+#####Houkai 3rd Ascension Perks
+#律者飞升
+ap_herrscher = {
+	potential = {
+		has_civic = civic_apocalypsehouse
+		is_mechanical_empire = no
+	}
+	
+	possible = {
+		custom_tooltip = {
+			fail_text = "requires_ascension_perks_3"
+			num_ascension_perks > 2
+		}
+		custom_tooltip = {
+			fail_text = "requires_technology_psionic_theory"
+			has_technology = tech_herrscher
+		}
+		custom_tooltip = {
+			fail_text = "requires_not_ap_the_flesh_is_weak"
+			NOT = { has_ascension_perk = ap_the_flesh_is_weak }
+		}
+	}
+	
+	on_enabled = {
+		add_research_option = tech_herrscher_army
+		hidden_effect = {
+			country_event = { id = hkas.1 }
+		}
+	}
+	modifier = {
+
+		modify_species_cost_mult = -0.25
+		country_naval_cap_add = 100
+		command_limit_add = 100
+		country_starbase_capacity_add = 3
+		pop_government_ethic_attraction = 0.3
+		country_influence_produces_mult = 1
+
+	}
+		
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 100
+			has_valid_civic = civic_apocalypsehouse
+		}
+	}
+}
+
+#逆熵崩坏量子学
+ap_quantumhonkai = {
+	potential = {
+		has_civic = civic_meinc
+		is_mechanical_empire = no
+	}
+
+	possible = {
+		custom_tooltip = {
+			fail_text = "requires_ascension_perks_3"
+			num_ascension_perks > 2
+		}
+		custom_tooltip = {
+			has_technology = tech_advanced_honkai_utilization
+		}
+		custom_tooltip = {
+			Not = { has_ascension_perk = ap_mind_over_matter }
+		}
+	}
+
+	on_enabled = {
+		add_research_option = tech_aemechs
+		hidden_effect = {
+			country_event = { id = hkas.2 }
+		}
+	}
+	modifier = {
+		ship_sensor_range_add = 2
+		ROBOT_species_trait_points_add = 1
+		modify_species_cost_mult = -0.25
+		country_naval_cap_add = 100
+		command_limit_add = 100
+	}
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 100
+			has_valid_civic = civic_meinc
+		}
+	}
+}

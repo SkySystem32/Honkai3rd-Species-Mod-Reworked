@@ -1,0 +1,65 @@
+###Honkai bombers
+
+tech_cross_ranger = {
+	area = engineering
+	cost = @tier3cost2
+	tier = 4
+	category = { voidcraft }
+	ai_update_type = military
+	prerequisites = { "tech_strike_craft_2" }
+	weight = @tier3weight2
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.25
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+tech_cross_eliudnir = {
+	area = engineering
+	cost = @tier4cost2
+	tier = 4
+	category = { honkai }
+	ai_update_type = military
+	prerequisites = { "tech_cross_ranger" "tech_strike_craft_3" }
+	weight = @tier4weight2
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.25
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+tech_cross_11threlic = {
+	area = engineering
+	cost = @tier5cost1
+	tier = 5
+	category = { honkai }
+	ai_update_type = military
+	prerequisites = { "tech_cross_ranger" }
+	weight = @tier5weight1
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 100
+			has_valid_civic = civic_apocalypsehouse
+		}
+		modifier = {
+			factor = 1.25
+			has_valid_civic = civic_meinc
+		}
+	}
+}

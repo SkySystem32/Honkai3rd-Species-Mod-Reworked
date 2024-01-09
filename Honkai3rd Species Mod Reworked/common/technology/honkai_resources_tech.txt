@@ -1,0 +1,82 @@
+tech_honkai_energy = {
+	cost = @tier2cost2
+	area = physics
+	tier = 2
+	category = { honkai }
+	weight = @tier2weight2
+	is_rare = yes
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 100
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+tech_honkai_core1 = {
+	cost = @tier3cost2
+	area = physics
+	tier = 3
+	category = { honkai }
+	weight = @tier3weight2
+	prerequisites = { "tech_honkai_energy" }
+	is_rare = yes
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 100
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+tech_honkai_core2 = {
+	cost = @tier4cost3
+	area = physics
+	tier = 3
+	category = { honkai }
+	weight = @tier4weight3
+	prerequisites = { "tech_honkai_core1" }
+	is_rare = yes
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 100
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+tech_honkai_centre = {
+	cost = @tier5cost1
+	area = physics
+	tier = 5
+	category = { honkai }
+	weight = @tier5weight1
+	prerequisites = { "tech_honkai_core2" }
+	is_rare = yes
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 100
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}

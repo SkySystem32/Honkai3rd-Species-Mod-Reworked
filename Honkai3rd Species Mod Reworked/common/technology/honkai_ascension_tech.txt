@@ -1,0 +1,42 @@
+###Honkai acension techs
+tech_herrscher = {
+	area = society
+	cost = @tier5cost3
+	tier = 5
+	category = { honkai }
+	ai_update_type = military
+	#prerequisites = 
+	weight = @tier5weight3
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.25
+			has_valid_civic = civic_apocalypsehouse
+		}
+	}
+	potential = {
+		has_civic = civic_apocalypsehouse
+	}
+}
+
+tech_advanced_honkai_utilization = {
+	area = engineering
+	cost = @tier5cost3
+	tier = 5
+	category = { honkai }
+	ai_update_type = military
+	#prerequisites = 
+	weight = @tier5weight3
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.25
+			has_valid_civic = civic_meinc
+		}
+	}
+	potential = {
+		has_civic = civic_meinc
+	}
+}

@@ -1,0 +1,67 @@
+#####Honkai Army
+herrscher_army = {
+	damage = 5
+	morale_damage = 2
+	health = 5
+	morale = 4.5
+	collateral_damage = 4
+	war_exhaustion = 5
+	time = 248
+	has_species = yes
+	
+	resources = {
+		category = armies
+		cost = {
+			minerals = 648
+			energy = 648
+			honkai_energy = 648
+		}
+
+		upkeep = {
+			energy = 6.48
+			honkai_energy = 3
+		}
+	}
+	
+	potential = {
+		from = {
+			has_trait = trait_schicksal
+		}
+	}
+	
+	prerequisites = { "tech_herrscher_army" }
+}
+
+###
+fathermech_army = {
+	damage = 4
+	morale_damage = 1
+	health = 3.5
+	has_morale = no
+	collateral_damage = 2
+	war_exhaustion = 2
+	time = 168
+	has_species = no
+	
+	resources = {
+		category = armies
+		cost = {
+			minerals = 328
+			energy = 328
+			honkai_energy = 328
+		}
+
+		upkeep = {
+			energy = 3.28
+			honkai_energy = 1.5
+		}
+	}
+	
+	potential = {
+		from = {
+			has_trait = trait_antientropy
+		}
+	}
+	
+	prerequisites = { "tech_aemechs" }
+}

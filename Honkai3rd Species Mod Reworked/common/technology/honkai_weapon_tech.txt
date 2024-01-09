@@ -1,0 +1,470 @@
+#####Honkai 3rd weapons
+
+###Kinetic
+tech_cyclops = {
+	area = engineering
+	cost = @tier3cost2
+	tier = 3
+	category = { propulsion }
+	ai_update_type = military
+	prerequisites = { "tech_mass_drivers_2" }
+	weight = @tier3weight2
+	
+	gateway = kinetic_weapons
+	
+	weight_modifier = {
+	}
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.25
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+tech_project_bunny = {
+	area = engineering
+	cost = @tier4cost2
+	tier = 4
+	category = { honkai }
+	ai_update_type = military
+	prerequisites = { "tech_cyclops" "tech_mass_drivers_4" }
+	weight = @tier4weight2
+	
+	gateway = kinetic_weapons
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.25
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+tech_tyr = {
+	area = engineering
+	cost = @tier4cost3
+	tier = 4
+	category = { honkai }
+	ai_update_type = military
+	prerequisites = { "tech_project_bunny" "tech_mass_drivers_5" }
+	weight = @tier4weight3
+	
+	gateway = kinetic_weapons
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.5
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+tech_5threlic = {
+	area = engineering
+	cost = @tier5cost1
+	tier = 5
+	category = { honkai }
+	ai_update_type = military
+	prerequisites = { "tech_tyr" }
+	weight = @tier5weight1
+	
+	gateway = kinetic_weapons
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 100
+			has_valid_civic = civic_apocalypsehouse
+		}
+		modifier = {
+			factor = 1.25
+			has_valid_civic = civic_meinc
+		}
+	}
+}
+
+###Flank
+
+#妖精之弓
+tech_alberich_bow = {
+	area = engineering
+	cost = @tier4cost2
+	tier = 4
+	category = { honkai }
+	ai_update_type = military
+	prerequisites = { "tech_flak_batteries_2" }
+	weight = @tier4weight2
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.5
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+###Missile
+tech_markovtc = {
+	area = engineering
+	cost = @tier3cost2
+	tier = 3
+	category = { honkai }
+	ai_update_type = military
+	prerequisites = { "tech_swarmer_missiles_1" }
+	weight = @tier3weight2
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.5
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+tech_raider = {
+	area = engineering
+	cost = @tier4cost2
+	tier = 4
+	category = { honkai }
+	ai_update_type = military
+	prerequisites = { "tech_markovtc" }
+	weight = @tier4weight2
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.5
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+###Laser Weapons
+
+tech_mig7 = {
+	area = physics
+	cost = @tier2cost2
+	tier = 2
+	category = { particles }
+	ai_update_type = military	
+	prerequisites = { "tech_lasers_2" }
+	weight = @tier2weight2
+	
+	gateway = energy_weapons
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.5
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+tech_cathode09 = {
+	area = physics
+	cost = @tier3cost2
+	tier = 3
+	category = { particles }
+	ai_update_type = military	
+	prerequisites = { "tech_mig7" "tech_lasers_4" }
+	weight = @tier3weight2
+	
+	gateway = energy_weapons
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.5
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+tech_quantum_destroyer = {
+	area = physics
+	cost = @tier4cost2
+	tier = 4
+	category = { honkai }
+	ai_update_type = military	
+	prerequisites = { "tech_cathode09" "tech_lasers_5" }
+	weight = @tier4weight2
+	
+	gateway = energy_weapons
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.5
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+tech_hel_bow = {
+	area = physics
+	cost = @tier4cost2
+	tier = 4
+	category = { honkai }
+	ai_update_type = military
+	prerequisites = { "tech_pd_tracking_3" }
+	weight = @tier4weight2
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.5
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+##Plasma weapons
+
+tech_water_spirit = {
+	area = physics
+	cost = @tier3cost3
+	tier = 3
+	category = { honkai }
+	ai_update_type = military
+	weight = @tier3weight3	
+	prerequisites = { "tech_plasma_2" }
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.5
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+tech_lightshadow = {
+	area = physics
+	cost = @tier4cost3
+	tier = 4
+	category = { honkai }
+	ai_update_type = military	
+	prerequisites = { "tech_water_spirit" "tech_plasma_3" }
+	weight = @tier4weight3
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.5
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+tech_2ndrelic = {
+	area = physics
+	cost = @tier5cost2
+	tier = 5
+	category = { honkai }
+	ai_update_type = military	
+	prerequisites = { "tech_lightshadow" }
+	weight = @tier5weight2
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 100
+			has_valid_civic = civic_apocalypsehouse
+		}
+		modifier = {
+			factor = 1.25
+			has_valid_civic = civic_meinc
+		}
+	}
+}
+
+##Disruptor Weapons
+
+tech_mjolnir = {
+	area = physics
+	cost = @tier3cost3
+	tier = 3
+	category = { honkai }
+	ai_update_type = military	
+	prerequisites = { "tech_disruptors_2" }
+	weight = @tier3weight3
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.5
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+tech_energy_leaper = {
+	area = physics
+	cost = @tier3cost3
+	tier = 3
+	category = { honkai }
+	ai_update_type = military	
+	prerequisites = { "tech_mjolnir" "tech_disruptors_3" }
+	weight = @tier3weight3
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.5
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+###Auto-Cannons
+
+tech_blaze_destroyer = {
+	area = engineering
+	cost = @tier3cost2
+	tier = 3
+	category = { honkai }
+	ai_update_type = military	
+	prerequisites = { "tech_autocannons_2" }
+	weight = @tier3weight2
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.5
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+tech_hyper_railgun = {
+	area = engineering
+	cost = @tier4cost2
+	tier = 4
+	category = { honkai }
+	ai_update_type = military	
+	prerequisites = { "tech_blaze_destroyer" "tech_autocannons_3" }
+	weight = @tier4weight2
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.5
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+###energy lance
+#核心聚能炮
+tech_core_evoker = {
+	area = physics
+	cost = @tier5cost1
+	tier = 5
+	category = { honkai }
+	ai_update_type = military
+	prerequisites = { "tech_hyper_railgun" }
+	weight = @tier5weight1
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.5
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+tech_star_destroyer = {
+	area = engineering
+	cost = @tier5cost2
+	tier = 5
+	category = { honkai }
+	ai_update_type = military
+	prerequisites = { "tech_titans" "tech_evoker" }
+	weight = @tier5weight2
+	
+	ai_weight = {
+		factor = 0
+		modifier = {
+			factor = 1.5
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+}
+
+tech_aichan_cannon = {
+	area = engineering
+	cost = @tier5cost3
+	tier = 5
+	category = { honkai }
+	ai_update_type = military
+	prerequisites = { "tech_star_destroyer" }
+	weight = @tier5weight3
+	
+	ai_weight = {
+		factor = 0
+	}
+}
+

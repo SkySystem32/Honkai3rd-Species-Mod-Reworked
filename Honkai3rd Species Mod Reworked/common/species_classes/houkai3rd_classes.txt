@@ -1,0 +1,12 @@
+
+"Houkai3rd" = {
+        archetype = BIOLOGICAL
+
+	portraits = {
+		"houkai3rd"
+	}
+
+	graphical_culture = "mammalian_01"
+	#city_graphical_culture = "mammalian_01"
+	move_pop_sound_effect = "moving_pop_confirmation"
+}

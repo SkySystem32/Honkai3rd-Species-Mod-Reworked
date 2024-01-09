@@ -1,0 +1,13 @@
+component_set = {
+	key = "MARKOV_C"
+	
+	icon = "GFX_ship_part_markov"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "RAIDER"
+	
+	icon = "GFX_ship_part_raider"
+	icon_frame = 1
+}

@@ -1,0 +1,25 @@
+honkai_energy = {
+
+	tradable = yes
+	category = advanced
+	max = 15000
+	market_amount = 20
+	market_price = 150
+	
+	prerequisites = { "tech_honkai_energy" }
+
+
+	ai_weight = {
+		weight = 0.5
+		modifier = {
+			weight = 100
+			OR = {
+				has_valid_civic = civic_apocalypsehouse
+				has_valid_civic = civic_meinc
+			}
+		}
+	}
+	ai_wants = {
+		base = 100
+	}
+}

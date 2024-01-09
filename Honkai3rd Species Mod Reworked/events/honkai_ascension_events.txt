@@ -1,0 +1,66 @@
+namespace = hkas
+country_event = {
+	id = hkas.1
+	title = "hkas.1.name"
+	desc = "hkas.1.desc"
+	picture = GFX_evt_honkai_ascension01
+	show_sound = event_evolution_mastery
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "hkas.1.a"
+		trigger = {
+			has_valid_civic = civic_apocalypsehouse
+		}
+	}
+
+	option = {
+		name = "hkas.1.b"
+		trigger = {
+			has_valid_civic = civic_meinc
+		}
+	}
+	option = {
+		name = "hkas.1.c"
+		trigger = {
+			NOT = {
+				has_valid_civic = civic_meinc
+				has_valid_civic = civic_apocalypsehouse
+			}
+		}
+	}
+}
+
+country_event = {
+	id = hkas.2
+	title = "hkas.2.name"
+	desc = "hkas.2.desc"
+	picture = GFX_evt_honkai_ascension02
+	show_sound = event_evolution_mastery
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "hkas.2.a"
+		trigger = {
+			has_valid_civic = civic_meinc
+		}
+	}
+
+	option = {
+		name = "hkas.2.b"
+		trigger = {
+			has_valid_civic = civic_apocalypsehouse
+		}
+	}
+	option = {
+		name = "hkas.2.c"
+		trigger = {
+			NOT = {
+				has_valid_civic = civic_meinc
+				has_valid_civic = civic_apocalypsehouse
+			}
+		}
+	}
+}

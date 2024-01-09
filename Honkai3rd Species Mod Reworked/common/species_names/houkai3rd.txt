@@ -1,0 +1,46 @@
+# Generated species derive their names from here
+
+"Houkai3rd" = {
+	"Destiny" = {
+		name = "Schicksal Faction"
+		plural = "Schicksal Faction"
+		home_planet = "Earth"
+		home_system = "Sol"
+		name_list = "mammalian_01"
+	}
+	"Destiny" = {
+		name = "Schicksal Faction"
+		plural = "Schicksal Faction"
+		home_planet = "St.Freya Academy"
+		home_system = "Destiny HQ"
+		name_list = "mammalian_01"
+	}
+	"Destiny" = {
+		name = "Schicksal Faction"
+		plural = "Schicksal Faction"
+		home_planet = "St.Freya Academy"
+		home_system = "Rome"
+		name_list = "mammalian_01"
+	}
+	"Destiny" = {
+		name = "Schicksal Faction"
+		plural = "Schicksal Faction"
+		home_planet = "St.Freya Academy"
+		home_system = "Hyperion"
+		name_list = "mammalian_01"
+	}
+        "Anti-entropy" = {
+		name = "Anti-entropy Faction"
+		plural = "Anti-entropy Faction"
+		home_planet = "Mikoyan Company"
+		home_system = "Anti-Entropy HQ"
+		name_list = "mammalian_01"
+	}
+        "Anti-entropy" = {
+		name = "Anti-entropy Faction"
+		plural = "Anti-entropy Faction"
+		home_planet = "Princeton Uni"
+		home_system = "Anti-Entropy HQ"
+		name_list = "mammalian_01"
+	}
+}

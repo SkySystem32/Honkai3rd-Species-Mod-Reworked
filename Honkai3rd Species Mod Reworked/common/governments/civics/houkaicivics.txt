@@ -1,0 +1,103 @@
+#####Houkai 3rd civics
+
+#House Apocalypse
+civic_apocalypsehouse = {
+	icon = "interface/icons/governments/apocalypse.dds"
+	potential = { ethics = { NOT = { value = ethic_gestalt_consciousness } } }
+	modification=no
+	
+	random_weight = {
+		base = 0
+	}
+	
+	modifier = {
+		edict_length_mult = 0.25
+		pop_government_ethic_attraction = 0.15
+		country_unity_produces_mult = 0.05
+	}
+}
+
+#St. Labs
+civic_lab = {
+	icon = "interface/icons/governments/stlab.dds"
+	potential = { ethics = { NOT = { value = ethic_gestalt_consciousness } } }
+	modification=no
+	
+	random_weight = {
+		base = 0
+	}
+	
+	modifier = {
+		country_leader_pool_size = 2
+		all_technology_research_speed = 0.1
+		num_tech_alternatives_add = 1
+	}
+}
+
+#M.E. company
+civic_meinc = {
+	icon = "interface/icons/governments/meinc.dds"
+	potential = { ethics = { NOT = { value = ethic_gestalt_consciousness } } }
+	modification=no
+	
+	random_weight = {
+		base = 0
+	}
+	
+	modifier = {
+		all_technology_research_speed = 0.1
+		num_tech_alternatives_add = 1
+		planet_pops_consumer_goods_upkeep_mult=-0.1
+	}
+}
+
+#Serpent
+civic_mikoyan = {
+	icon = "interface/icons/governments/mikoyan.dds"
+	potential = { ethics = { NOT = { value = ethic_gestalt_consciousness } } }
+	modification=no
+	
+	random_weight = {
+		base = 0
+	}
+	
+	modifier = {
+		armies_upkeep_mult=-0.3
+		ships_upkeep_mult=-0.05
+		starbase_shipyard_build_cost_mult=-0.05
+		starbase_shipyard_build_speed_mult = 0.15
+	}
+}
+
+#House Kaslana
+civic_kaslanahouse = {
+	icon = "interface/icons/governments/kaslana.dds"
+	potential = { ethics = { NOT = { value = ethic_gestalt_consciousness } } }
+	
+	random_weight = {
+		base = 0
+	}
+	
+	modifier = {
+		country_starbase_capacity_add = 3
+		country_war_exhaustion_mult = -0.05
+		army_damage_mult = 0.25
+	}
+}
+
+#House schariac
+civic_schariachouse = {
+	icon = "interface/icons/governments/schariac.dds"
+	potential = { ethics = { NOT = { value = ethic_gestalt_consciousness } } }
+	
+	random_weight = {
+		base = 0
+	}
+	
+	modifier = {
+		pop_government_ethic_attraction = 0.10
+		country_naval_cap_mult = 0.1
+		pop_citizen_happiness = 0.05
+	}
+}
+
