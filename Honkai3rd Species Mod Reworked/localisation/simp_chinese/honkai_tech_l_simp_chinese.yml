@@ -1,0 +1,123 @@
+﻿l_simp_chinese:
+ #####科技
+ ##模块
+ tech_cyclops:0 "独眼巨人初型"
+ tech_cyclops_desc:0 "米高扬中央制造局设计的崩坏能重炮，其改进衍生型被广泛用于小型战舰"
+ 
+ tech_project_bunny:0 "重装小兔19C"
+ tech_project_bunny_desc:0 "米高扬中央制造局设计的重炮，其构造与布洛尼亚的重装小兔19C完全形同，其改进型被广泛用于中小型战舰上"
+ 
+ tech_tyr:0 "提尔的断腕"
+ tech_tyr_desc:0 "天命借助“魂钢”开发出的“诸神座”系列武器，可以利用崩坏能发射威力巨大的炮弹，主要装备于新型舰船"
+ 
+ tech_5threlic:0 "5th圣遗物"
+ tech_5threlic_desc:0 "天命组织在贝加尔湖挖出来的上个文明纪元制作的重装超远程作战兵器，利用类似律者的核心驱动，经过多年的解析，其技术竟然与失落帝国如出一辙..."
+ 
+ tech_alberich_bow:0 "妖精之弓"
+ tech_alberich_bow_desc:0 "天命借助“魂钢”开发出的“诸神座”系列武器，炮身内的转换器可以利用崩坏能操控四周空气流动，如同妖精王的加护一般"
+ 
+ tech_markovtc:0 "马尔科夫C型"
+ tech_markovtc_desc:0 "米高扬中央设计制造局制造的崩坏能重兵器，在制式的苏联武器内部，嵌入了崩坏能结晶碎片，广泛装备于空天军炮兵单位"
+ 
+ tech_raider:0 "突袭者分裂导弹"
+ tech_raider_desc:0 "米高扬中央设计局设计的分裂导弹，导弹中有崩坏能吸附链，能够给予目标重创，广泛装备于空天军支援舰船"
+ 
+ tech_mig7:0 "MIG-7激光炮"
+ tech_mig7_desc:0 "利用超导技术制造出的超导储能电流，产生高强度激光，广泛装备于小型及民间舰船"
+ 
+ tech_cathode09:0 "阴极子炮09式"
+ tech_cathode09_desc:0 "ME社现社长可可利亚开发的光束炮，可以分裂出崩坏能粒子中的阴极子，将阴极子通过震动装置形成光束发射，广泛装备于各类舰船"
+ 
+ tech_quantum_destroyer:0 "量子毁灭者II型"
+ tech_quantum_destroyer_desc:0 "通过在希尔身上进行的实验所得到的数据，逆熵对量子技术的研究获得了长足的进步，并基于量子技术开发了该型武器"
+ 
+ tech_hel_bow:0 "异型·赫尔之弓"
+ tech_hel_bow_desc:0 "天命圣1504研究所所长，刀工长光逆转妖精之弓的设计图，制作出来的“暗之弓”。以北欧传说中女武神的死敌，死亡女神赫尔来命名"
+ 
+ tech_water_spirit:0 "水妖精II型"
+ tech_water_spirit_desc:0 "圣7308研究所为舰队设计的电浆炮，内部安装了I-32改崩坏能引擎，核心产生的凝聚粒子在集中目标时吸走热量，碎裂目标装甲"
+ 
+ tech_lightshadow:0 "光与影"
+ tech_lightshadow_desc:0 "ME社总部利用Project-MEI的数据研制的电浆炮，通过强电磁场的挤压，使两种互斥的崩坏能粒子之间发生爆裂反映，碎裂目标装甲"
+ 
+ tech_2ndrelic:0 "2nd圣遗物"
+ tech_2ndrelic_desc:0 "天命组织在贝加尔湖挖出来的上个文明纪元制作的电浆炮，利用类似律者的核心驱动，经过多年的解析，其技术竟然与失落帝国如出一辙..."
+ 
+ tech_mjolnir:0 "索尔之锤"
+ tech_mjolnir_desc:0 "天命借助“魂钢”开发出的“诸神座”系列武器，内部储存了大量崩坏能粒子，在激发时的强烈反应可以瞬间粉碎敌人护盾"
+ 
+ tech_energy_leaper:0 "能量跃迁者"
+ tech_energy_leaper_desc:0 "通过在希尔身上进行的实验所得到的数据，逆熵对量子技术的研究获得了长足的进步，并基于量子技术开发出了这款碎裂炮"
+ 
+ tech_blaze_destroyer:0 "烈焰毁灭作者"
+ tech_blaze_destroyer_desc:0 "ME社总部利用Project-MEI的数据研制的机炮，利用超强的电磁场震动，释放出令人恐惧的火力"
+ 
+ tech_hyper_railgun:0 "超电磁机炮"
+ tech_hyper_railgun_desc:0 "ME社总部开发的机炮，利用数年前Project-MEI中的实验数据，成功将大量崩坏能粒子束缚在了电磁场中，并由此强化了射速和弹丸"
+ 
+ tech_core_evoker:0 "核心聚能炮Delta"
+ tech_core_evoker_desc:0 "ME社总部利用Project-MEI的数据研制的超电磁聚能炮，利用电磁场的约束压缩崩坏能粒子，濒临极限之后就会释放出高能光束"
+ 
+ tech_star_destroyer:0 "歼星者19C"
+ tech_star_destroyer_desc:0 "随着布洛妮娅的情感波动而改变姿态的重装小兔19C，将威力强化到极致，其仿佛律者的火力，经过多年的解析，其技术竟然与失落帝国如出一辙..."
+ 
+ tech_aichan_cannon:0 "爱酱炮"
+ tech_aichan_cannon_desc:0 "2417年愚人节限定武器，跟我一起念：氪金！强！无敌！"
+ 
+ tech_cross_ranger:0 "游骑兵轰炸机"
+ tech_cross_ranger_desc:0 "曾活跃于致远星的女武神舰队的主力战机，设计兼顾火力与机动。战役结束后，机队长机的残骸被发现于一个索林原虫的尸体上，无声纪念已逝的战士..."
+ 
+ tech_cross_eliudnir:0 "埃琉德尼尔型战机"
+ tech_cross_eliudnir_desc:0 "天命圣1504研究所所长，长光受奥托命令而设计的战机。在传说中，埃琉德尼尔是死亡女神赫尔居住的宫殿，该型战机究竟是为了对抗什么敌人而设计的？.."
+ 
+ tech_cross_11threlic:0 "11th圣遗物"
+ tech_cross_11threlic_desc:0 "天命组织在挪威哈当格尔挖出来的上个文明纪元制作的自律兵器，利用类似律者的核心驱动，经过多年的解析，其技术竟然与失落帝国如出一辙..."
+ 
+ ##飞升
+ tech_herrscher:0 "律者飞升"
+ tech_herrscher_desc:0 "通过对律者和崩坏能多年的研究，我们已经大体掌握了其二者之间的关系，现在我们要做的就是将其在我们的国民身上实用化。此举只是是我们领先银河的序幕..."
+ 
+ tech_advanced_honkai_utilization:0 "高级崩坏能实用化"
+ tech_advanced_honkai_utilization_desc:0 "不同于邪恶的天命组织，我们不会尝试将崩坏能用于人体试验，崩坏能应当像其他能源一样，被用于工业建设来扩大我们的生产力，用于军事建设以粉碎天命邪教势力"
+ 
+ ##陆军
+ tech_herrscher_army:0 "律者部队"
+ tech_herrscher_army_desc:0 "如今我们的领导阶层已经普遍律者化，陆军已经可以被取代。在强大的律者面前，100万士兵无异于100万披着大衣的碳水化合物"
+ 
+ tech_aemechs:0 "逆熵崩坏能机甲"
+ tech_aemechs_desc:0 "我们将崩坏能用于驱动机甲的技术早已成熟，而基于量子崩坏能学，我们现在甚至可以量产“天父-50式”巨型崩坏能自律兵器，相信在这些巨大的兵器面前，即使律者也要忌惮三分"
+ 
+ ##资源、建筑
+ tech_honkai_energy:0 "崩坏能开采"
+ tech_honkai_energy_desc:0 "崩坏在我们数千年的历史中一直与我们如影随形，然而随着科技的进步，时至23世纪，在众多科研人员的努力下，我们终于能完全控制并利用崩坏能了"
+ 
+ tech_honkai_core1:0 "高级崩坏能开采"
+ tech_honkai_core1_desc:0 "随着崩坏能利用规模的逐步扩大，过去的崩坏能开采设施已经不能满足人民与军队日益增长的需要了。因此，更高级崩坏能开采设施的开发便顺理成章地开始了"
+ 
+ tech_honkai_core2:0 "国家崩坏能中心"
+ tech_honkai_core2_desc:0 "崩坏能在我们帝国已经相当普及，曾经的崩坏能开采设施也逐渐年久失修，如今，帝国级别的崩坏能统筹开发设施的建设已经被提上日程"
+ 
+ tech_honkai_centre:0 "崩坏枢纽"
+ tech_honkai_centre_desc:0 "如今，我们帝国对崩坏能的开采与使用已经相当成熟，下一部便是建立一个小型的基于崩坏能的研究中心，此设施将完全由崩坏能提供能源供应，并能使我们帝国的科研效率大幅上升"
+ 
+ hk_building_honkai_powerplant:0 "崩坏能提炼中心"
+ hk_building_honkai_powerplant_desc:0 "此设施可以将自然界的崩坏能提炼出来，以供我们帝国使用"
+ 
+ hk_building_advanced_honkai_powerplant:0 "高级崩坏能提炼中心"
+ hk_building_advanced_honkai_powerplant_desc:0 "高级的崩坏能提炼设施，比起过去的技术更加高效"
+ 
+ hk_building_national_honkai_powerplant:0 "帝国崩坏能中心"
+ hk_building_national_honkai_powerplant_desc:0 "帝国政府直属的崩坏能提炼中心，能够高效提炼并统筹崩坏能的利用"
+ 
+ hk_building_honkai_nexus:0 "崩坏枢纽"
+ hk_building_honkai_nexus_desc:0 "一座小型的科研城，完全由崩坏能提供能源保障"
+ 
+ ##人口、职业BASE_JOB_OUTPUT:0""
+ #BASE_JOB_INPUT:0 ""
+ #BASE_JOB_OUTPUT:0 ""
+ job_honkai_worker_effect_desc:0 "崩坏能工人将崩坏能从自然界中开采并提炼出来"
+ job_honkai_worker:0 "崩坏能开采者"
+ mod_job_honkai_worker_add:0 "崩坏能开采者职业"
+ job_honkai_worker_plural:0 "崩坏能开采者"
+ job_honkai_worker_desc:0 "崩坏能工人将崩坏能从自然界中开采并提炼出来"
+ honkai_nexus_effect_desc:0 "一座小型的科研城，完全由崩坏能提供能源保障"

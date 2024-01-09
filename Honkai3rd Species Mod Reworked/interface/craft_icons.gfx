@@ -1,0 +1,23 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_ship_part_strike_craft_ranger"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_strike_craft_ranger.dds"
+		noOfFrames = 1
+	}
+}
+
+spriteTypes = {
+	spriteType = {
+		name = "GFX_ship_part_strike_craft_eliudnir"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_strike_craft_eliudnir.dds"
+		noOfFrames = 1
+	}
+}
+
+spriteTypes = {
+	spriteType = {
+		name = "GFX_ship_part_strike_craft_11th"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_strike_craft_11th.dds"
+		noOfFrames = 1
+	}
+}

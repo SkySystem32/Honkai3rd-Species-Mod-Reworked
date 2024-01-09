@@ -1,0 +1,170 @@
+﻿l_simp_chinese:
+ Houkai3rd:0 "崩坏3种族"
+ houkai3rd:0 "崩坏3"
+ 
+ name_list_Honkainame:0 "崩坏3"
+ FLAG_CATEGORY_honkaiflags:0 "崩坏3旗帜"
+ 
+ ##特性、民政
+ trait_schicksal: "天命组织"
+ trait_schicksal_desc: "作为世界上最大的对抗“崩坏”的组织，目前，天命组织已经控制了母星，并开始着手将向深空进军..."
+ 
+ trait_antientropy: "逆熵组织"
+ trait_antientropy_desc: "逆熵组织是在1955年，由于不满主教奥托的政策，瓦尔特领导天命北美支部独立而建立的组织，其寻求通过机械来利用崩坏能..."
+ 
+ civic_apocalypsehouse: "阿波卡利斯家族"
+ civic_apocalypsehouse_desc: "阿波卡利丝家族的诞生最早可追溯至西罗马时代，在上千年的发展中，其家族势力在教会中逐渐壮大。15世纪末，教皇西克斯图斯四世册封奥托·阿波卡利丝为“天命”大主教以来，不老不死的他在23世纪仍然对天命组织有着绝对的权威.."
+ 
+ civic_lab: "天命圣实验室"
+ civic_lab_desc: "天命总部直属的圣实验室，其成员在中世纪就以炼金术的名义进行着崩坏能实验，直到近代，天命组织的许多武器依然由其开发。其中最具代表性的便是圣7308与圣1504研究所.."
+ 
+ civic_meinc: "M.E.社"
+ civic_meinc_desc: "M.E.社最初是由雷电龙马创建的科技公司，一直担负着逆熵组织装备开发的重任。然而在革新派的可可利亚夺权之后，其道路似乎有些违背逆熵创始人的初衷.."
+ 
+ civic_mikoyan: "米高扬中央设计局"
+ civic_mikoyan_desc: "米高扬中央设计局是“世界蛇”组织下属的武器研发机构，其装备理念不同于天命和逆熵，注重批量生产的理念使其装备甚至列装过苏联军队。在第三次崩坏战争末期，随着“世界蛇”被天命彻底摧毁，米高扬设计局便转投逆熵旗下效力"
+ 
+ civic_kaslanahouse: "卡斯兰娜家族"
+ civic_kaslanahouse_desc: "卡斯兰娜家族的先人早在上个文明世代就已是活跃在一线对抗崩坏的战士了。本次文明世代伊始，解冻的卡斯兰娜祖先就建立了卡斯兰娜家族。在数千年的发展中，本身就具有超自然能力的他们顺理成章地成为了对抗崩坏的组织“天命”三大支柱家族之一，然而，历经第二次崩坏战争的种种恩怨后，时至今日，他们是否还会站在天命一边？"
+ 
+ civic_schariachouse: "沙尼亚特家族"
+ civic_schariachouse_desc: "历史悠久的沙尼亚特家族早在“天命”建立之前，就在日耳曼尼亚进行着对抗崩坏的活动。4世纪末期，沙尼亚特家族与阿波卡利斯和卡斯兰娜家族共同创建了“天命”，并在之后的几个世纪中一直作为天命的重要力量活跃在对抗崩坏的战场。然而，随着塞西莉亚·沙尼亚特在第二次崩坏战争中的牺牲，今天，沙尼亚特家族是否还会站在天命一边？"
+ 
+ honkai: "崩坏能学"
+ honkai_desc: "崩坏能学是研究如何将强大的异变能量——崩坏能实用化的一门科学"
+ 
+ honkai_energy: "崩坏能"
+ honkai_energy_desc: "崩坏能是一种强大的神秘能量，曾引发一系列灾难，现在终于能为我们所用"
+ 
+ ###飞升
+ ap_herrscher: "律者飞升"
+ ap_herrscher_desc: "通过对律者和崩坏能多年的研究，我们已经大体掌握了其二者之间的关系，现在我们要做的就是将其在我们的国民身上实用化。此举只是是我们领先银河的序幕..."
+ 
+ ap_quantumhonkai: "量子崩坏能学"
+ ap_quantumhonkai_desc: "我们对于量子科学与崩坏能学的结合研究，使我们在崩坏能的应用方面有了长足的进步。借助这些研究成果，我们定能独步银河"
+ 
+ ##模块
+ CYCLOPS: "独眼巨人初型"
+ SMALL_CYCLOPS: "小型独眼巨人初型"
+ MEDIUM_CYCLOPS: "中型独眼巨人初型"
+ LARGE_CYCLOPS: "大型独眼巨人初型"
+ CYCLOPS_DESC: "米高扬中央制造局设计的崩坏能重炮，其改进衍生型被广泛用于小型战舰"
+ 
+ PROJECT_BUNNY: "重装小兔19C"
+ SMALL_PROJECT_BUNNY: "小型重装小兔19C"
+ MEDIUM_PROJECT_BUNNY: "中型重装小兔19C"
+ LARGE_PROJECT_BUNNY: "大型重装小兔19C"
+ PROJECT_BUNNY_DESC: "米高扬中央制造局设计的重炮，其构造与布洛尼亚的重装小兔19C完全形同，其改进型被广泛用于中小型战舰上"
+ 
+ TYR_HAND: "提尔的断腕"
+ SMALL_TYR_HAND: "小型提尔的断腕"
+ MEDIUM_TYR_HAND: "中型提尔的断腕"
+ LARGE_TYR_HAND: "大型提尔的断腕"
+ TYR_HAND_DESC: "天命借助“魂钢”开发出的“诸神座”系列武器，可以利用崩坏能发射威力巨大的炮弹，主要装备于新型舰船"
+ 
+ 5TH_RELIC: "5th圣遗物"
+ SMALL_5TH_RELIC: "小型5th圣遗物"
+ MEDIUM_5TH_RELIC: "中型5th圣遗物"
+ LARGE_5TH_RELIC: "大型5th圣遗物"
+ 5TH_RELIC_DESC: "天命组织在贝加尔湖挖出来的上个文明纪元制作的重装超远程作战兵器，利用类似律者的核心驱动，经过多年的解析，其技术竟然与失落帝国如出一辙..."
+ 
+ ALBERICH_BOW: "妖精之弓"
+ PD_ALBERICH_BOW: "妖精之弓"
+ ALBERICH_BOW_DESC: "天命借助“魂钢”开发出的“诸神座”系列武器，炮身内的转换器可以利用崩坏能操控四周空气流动，如同妖精王的加护一般"
+ 
+ MARKOV_C: "马尔科夫C型"
+ MARKOV_C_DESC: "米高扬中央设计制造局制造的崩坏能重兵器，在制式的苏联武器内部，嵌入了崩坏能结晶碎片，广泛装备于空天军炮兵单位"
+ 
+ RAIDER: "突袭者分裂导弹"
+ RAIDER_DESC: "米高扬中央设计局设计的分裂导弹，导弹中有崩坏能吸附链，能够给予目标重创，广泛装备于空天军支援舰船"
+ 
+ MIG_7: "MIG-7激光炮"
+ SMALL_MIG_7: "小型MIG-7激光炮"
+ MEDIUM_MIG_7: "中型MIG-7激光炮"
+ LARGE_MIG_7: "大型MIG-7激光炮"
+ MIG_7_DESC: "利用超导技术制造出的超导储能电流，产生高强度激光，广泛装备于小型及民间舰船"
+ 
+ CATHODE_9: "阴极子炮09式"
+ SMALL_CATHODE_9: "小型阴离子炮09式"
+ MEDIUM_CATHODE_9: "中型阴离子炮09式"
+ LARGE_CATHODE_9: "大型阴离子炮09式"
+ CATHODE_9_DESC: "ME社现社长可可利亚开发的光束炮，可以分裂出崩坏能粒子中的阴极子，将阴极子通过震动装置形成光束发射，广泛装备于各类舰船"
+ 
+ QUANTUM_DESTROYER: "量子毁灭者II型"
+ SMALL_QUANTUM_DESTROYER: "小型量子毁灭者II型"
+ MEDIUM_QUANTUM_DESTROYER: "中型量子毁灭者II型"
+ LARGE_QUANTUM_DESTROYER: "大型量子毁灭者II型"
+ QUANTUM_DESTROYER_DESC: "通过在希尔身上进行的实验所得到的数据，逆熵对量子技术的研究获得了长足的进步，并基于量子技术开发了该型武器"
+ 
+ HEL_BOW: "异型·赫尔之弓"
+ PD_HEL_BOW: "异型·赫尔之弓"
+ HEL_BOW_DESC: "天命圣1504研究所所长，刀工长光逆转妖精之弓的设计图，制作出来的“暗之弓”。以北欧传说中女武神的死敌，死亡女神赫尔来命名"
+ 
+ WATER_SPIRIT: "水妖精II型"
+ SMALL_WATER_SPIRIT: "小型水妖精II型"
+ MEDIUM_WATER_SPIRIT: "中型水妖精II型"
+ LARGE_WATER_SPIRIT: "大型水妖精II型"
+ WATER_SPIRIT_DESC: "圣7308研究所为舰队设计的电浆炮，内部安装了I-32改崩坏能引擎，核心产生的凝聚粒子在集中目标时吸走热量，碎裂目标装甲"
+ 
+ LIGHT_SHADOW: "光与影"
+ SMALL_LIGHT_SHADOW: "小型光与影"
+ MEDIUM_LIGHT_SHADOW: "中型光与影"
+ LARGE_LIGHT_SHADOW: "大型光与影"
+ LIGHT_SHADOW_DESC: "ME社总部利用Project-MEI的数据研制的电浆炮，通过强电磁场的挤压，使两种互斥的崩坏能粒子之间发生爆裂反映，碎裂目标装甲"
+ 
+ 2ND_RELIC: "2nd圣遗物"
+ SMALL_2ND_RELIC: "小型2nd圣遗物"
+ MEDIUM_2ND_RELIC: "中型2nd圣遗物"
+ LARGE_2ND_RELIC: "大型2nd圣遗物"
+ 2ND_RELIC_DESC: "天命组织在贝加尔湖挖出来的上个文明纪元制作的电浆炮，利用类似律者的核心驱动，经过多年的解析，其技术竟然与失落帝国如出一辙..."
+ 
+ MJOLNIR: "索尔之锤"
+ SMALL_MJOLNIR: "小型索尔之锤"
+ MEDIUM_MJOLNIR: "中型索尔之锤"
+ 
+ MJOLNIR_DESC: "天命借助“魂钢”开发出的“诸神座”系列武器，内部储存了大量崩坏能粒子，在激发时的强烈反应可以瞬间粉碎敌人护盾"
+ 
+ ENERGY_LEAPER: "能量跃迁者"
+ SMALL_ENERGY_LEAPER: "小型能量跃迁者"
+ MEDIUM_ENERGY_LEAPER: "中型能量跃迁者"
+ ENERGY_LEAPER_DESC: "通过在希尔身上进行的实验所得到的数据，逆熵对量子技术的研究获得了长足的进步，并基于量子技术开发出了这款碎裂炮"
+ 
+ BLAZE_DESTROYER: "烈焰毁灭者"
+ SMALL_BLAZE_DESTROYER: "烈焰毁灭者"
+ BLAZE_DESTROYER_DESC: "ME社总部利用Project-MEI的数据研制的机炮，利用超强的电磁场震动，释放出令人恐惧的火力"
+ 
+ HYPER_RAILGUN: "超电磁机炮"
+ SMALL_HYPER_RAILGUN: "超电磁机炮"
+ HYPER_RAILGUN_DESC: "ME社总部开发的机炮，利用数年前Project-MEI中的实验数据，成功将大量崩坏能粒子束缚在了电磁场中，并由此强化了射速和弹丸"
+ 
+ CORE_EVOKER: "核心聚能炮DELTA"
+ CORE_EVOKER_DESC: "ME社总部利用Project-MEI的数据研制的超电磁聚能炮，利用电磁场的约束压缩崩坏能粒子，濒临极限之后就会释放出高能光束"
+ 
+ STAR_DESTROYER: "歼星者19C"
+ STAR_DESTROYER_DESC: "随着布洛妮娅的情感波动而改变姿态的重装小兔19C，将威力强化到极致，其仿佛律者的火力，经过多年的解析，其技术竟然与失落帝国如出一辙..."
+ 
+ AICHAN_CANNON: "爱酱炮"
+ LARGE_AICHAN_CANNON: "爱酱炮"
+ AICHAN_CANNON_DESC: "2417年愚人节限定武器，跟我一起念：氪金！强！无敌！"
+ 
+ CROSS_RANGER: "游骑兵轰炸机"
+ CROSS_RANGER_DESC: "曾活跃于致远星的女武神舰队的主力战机，设计兼顾火力与机动。战役结束后，机队长机的残骸被发现于一个索林原虫的尸体上，无声纪念已逝的战士..."
+ 
+ CROSS_ELIUDNIR: "埃琉德尼尔型战机"
+ CROSS_ELIUDNIR_DESC: "天命圣1504研究所所长，长光受奥托命令而设计的战机。在传说中，埃琉德尼尔是死亡女神赫尔居住的宫殿，该型战机究竟是为了对抗什么敌人而设计的？.."
+ 
+ CROSS_11TH: "11th圣遗物"
+ CROSS_11TH_DESC: "天命组织在挪威哈当格尔挖出来的上个文明纪元制作的自律兵器，利用类似律者的核心驱动，经过多年的解析，其技术竟然与失落帝国如出一辙..."
+ 
+ ###事件
+ hkas.1.name:0 "天命组织的律者飞升"
+ hkas.1.desc:0 "崩坏数千年来一直伴随着人类的历史进程，不计其数的战士们为了对抗崩坏而献出了自己的生命。今天，天命组织外交部正式宣布他们已经掌握了崩坏能，并成功将其运用在人造律者上，并声称这将能为银河带来繁荣与稳定..."
+ hkas.1.a:0 "主教大人带领我们走向光荣与伟大！"
+ hkas.1.b:0 "切，那绿帽神棍还是去舔他的VR卡莲吧！"
+ hkas.1.c:0 "一群蠢货罢了"
+ 
+ hkas.2.name:0 "逆熵组织的崩坏能飞升"
+ hkas.2.desc:0 "崩坏数千年来一直伴随着人类的历史进程，不计其数的战士们为了对抗崩坏而献出了自己的生命。今天，逆熵组织外交部正式宣布他们已经掌握了崩坏能，并成功将其广泛运用于社会的方方面面，并声称最新的崩坏能机甲所向无敌..."
+ hkas.2.a:0 "我们崩坏能的利用使我们前途无限光明"
+ hkas.2.b:0 "切，那些铁罐头的战斗力还不如主教大人的卡莲手办！"
+ hkas.2.c:0 "一群蠢货罢了"

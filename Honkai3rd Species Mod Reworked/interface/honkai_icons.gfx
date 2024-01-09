@@ -1,0 +1,141 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_ap_herrscher"
+		textureFile = "gfx/interface/icons/ascension_perks/ap_herrscher.dds"
+		alwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_ap_quantumhonkai"
+		textureFile = "gfx/interface/icons/ascension_perks/ap_quantumhonkai.dds"
+		alwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_cyclops"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_cyclops.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_projectbunny"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_projectbunny.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_tyr"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_tyr.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_5th"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_5th.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_alberich"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_alberich.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_aichan"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_aichan.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_stardestroyer"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_stardestroyer.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_blaze"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_blaze.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_hyperrailgun"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_hyperrailgun.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_markov"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_markov.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_raider"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_raider.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_mig7"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_mig7.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_cathode"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_cathode.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_quantumdestroyer"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_quantumdestroyer.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_hel"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_hel.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_waterspirit"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_waterspirit.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_lightshadow"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_lightshadow.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_2nd"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_2nd.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_mjolnir"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_mjolnir.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_leaper"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_leaper.dds"
+		noOfFrames = 1
+	}
+	
+	spriteType = {
+		name = "GFX_ship_part_coreevoker"
+		textureFile = "gfx/interface/icons/ship_parts/ship_part_coreevoker.dds"
+		noOfFrames = 1
+	}
+}
+	

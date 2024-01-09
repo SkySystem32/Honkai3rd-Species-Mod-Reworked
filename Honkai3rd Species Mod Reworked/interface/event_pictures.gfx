@@ -1,0 +1,17 @@
+spriteTypes = {
+
+	###honkai energy
+	spriteType = {
+		name = "GFX_evt_honkai_ascension01"
+		textureFile = "gfx/event_pictures/honkai_ascension01.dds"
+		masking_texture = "gfx/interface/situation_log/event_mask.dds"
+		alwaystransparent = yes	
+	}
+
+	spriteType = {
+		name = "GFX_evt_honkai_ascension02"
+		textureFile = "gfx/event_pictures/honkai_ascension02.dds"
+		masking_texture = "gfx/interface/situation_log/event_mask.dds"
+		alwaystransparent = yes	
+	}
+}

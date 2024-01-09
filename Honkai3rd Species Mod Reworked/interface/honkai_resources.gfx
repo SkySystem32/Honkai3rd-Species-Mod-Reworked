@@ -1,0 +1,18 @@
+spriteTypes = {
+
+	###honkai energy
+	spriteType = {
+		name = "GFX_resource_honkai_energy"
+		textureFile = "gfx/interface/icons/resources/honkai_energy.dds"
+	}
+
+	spriteType = {
+		name = "GFX_resource_honkai_energy_large"
+		textureFile = "gfx/interface/icons/resources/honkai_energy_large.dds"
+	}
+
+	spriteType = {
+		name = "GFX_resource_honkai_energy_grey"
+		textureFile = "gfx/interface/icons/resources/honkai_energy_grey.dds"
+	}
+}
