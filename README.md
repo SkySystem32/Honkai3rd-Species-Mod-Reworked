@@ -1,6 +1,6 @@
 # Honkai3rd-Species-Mod-Reworked
 - We tried to rework and fix some bugs to the honkai3 species model which had stopped updating for a long time.
-- The updated model resources in the remastered edition are sourced from the Wiki community:  [Official Honkai Impact 3 Wiki](https://honkaiimpact3.fandom.com/wiki/Honkai_Impact_3_Wiki), and the community content is available under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+- The updated model resources in this reworked edition are sourced from the Wiki community:  [Official Honkai Impact 3 Wiki](https://honkaiimpact3.fandom.com/wiki/Honkai_Impact_3_Wiki), and the community content is available under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 
 # Note：
