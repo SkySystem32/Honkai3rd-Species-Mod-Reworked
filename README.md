@@ -7,5 +7,5 @@ We tried to rework and fix some bugs to the honkai3 species model which had stop
 
 
 # Note：
-+ 如果在克隆项目时出现SSL证书错误，可以尝试："git config --global http.sslBackend schannel"这将配置 git 使用本地 Windows 证书存储进行 SSL 验证。
++ 如果在克隆项目时出现SSL证书错误，可以尝试：`git config --global http.sslBackend schannel`这将配置 git 使用本地 Windows 证书存储进行 SSL 验证。
 + 请订阅ParadoxLanguageSupport插件以帮助阅读本模组(如搜索不到，可尝试更新IDE以解决问题)
