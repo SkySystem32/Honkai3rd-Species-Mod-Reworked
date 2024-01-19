@@ -10,3 +10,23 @@
 	#city_graphical_culture = "mammalian_01"
 	move_pop_sound_effect = "moving_pop_confirmation"
 }
+
+MACHINE = {
+	custom_portraits = { # use custom_portraits instead of portraits so we can put them after the custom_portraits above
+		randomized = { always = yes }
+		playable = { always = yes }
+		portraits = {
+			"houkai3rd_mech"
+		}
+	}
+}
+
+ROBOT = {
+	custom_portraits = { # use custom_portraits instead of portraits so we can put them after the custom_portraits above
+		randomized = { always = yes }
+		playable = { always = yes }
+		portraits = {
+			"houkai3rd_mech"
+		}
+	}
+}

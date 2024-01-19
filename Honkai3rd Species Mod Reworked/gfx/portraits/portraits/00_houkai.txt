@@ -24,20 +24,20 @@ portraits = {
 	houkai23 = {texturefile = "gfx/models/portraits/stai1.dds"  }
 	houkai24 = {texturefile = "gfx/models/portraits/stai2.dds"  }
 	houkai25 = {texturefile = "gfx/models/portraits/stai3.dds"  }
-	houkai26 = {texturefile = "gfx/models/portraits/staojier1.dds"  }
-	houkai27 = {texturefile = "gfx/models/portraits/staojier2.dds"  }
-	houkai28 = {texturefile = "gfx/models/portraits/staojier3.dds"  }
+	#houkai26 = {texturefile = "gfx/models/portraits/staojier1.dds"  }
+	#houkai27 = {texturefile = "gfx/models/portraits/staojier2.dds"  }
+	#houkai28 = {texturefile = "gfx/models/portraits/staojier3.dds"  }
 	houkai29 = {texturefile = "gfx/models/portraits/staotuoweila1.dds"  }
 	houkai30 = {texturefile = "gfx/models/portraits/staotuoweila2.dds"  }
 	houkai31 = {texturefile = "gfx/models/portraits/staotuoweila3.dds"  }
-	houkai32 = {texturefile = "gfx/models/portraits/stasai1.dds"  }
-	houkai33 = {texturefile = "gfx/models/portraits/stasai2.dds"  }
-	houkai34 = {texturefile = "gfx/models/portraits/stasai3.dds"  }
-	houkai35 = {texturefile = "gfx/models/portraits/stattila1.dds"  }
-	houkai36 = {texturefile = "gfx/models/portraits/stattila2.dds"  }
-	houkai37 = {texturefile = "gfx/models/portraits/stattila3.dds"  }
-	houkai38 = {texturefile = "gfx/models/portraits/stbockla2.dds"  }
-	houkai39 = {texturefile = "gfx/models/portraits/stbockla3.dds"  }
+	#houkai32 = {texturefile = "gfx/models/portraits/stasai1.dds"  }
+	#houkai33 = {texturefile = "gfx/models/portraits/stasai2.dds"  }
+	#houkai34 = {texturefile = "gfx/models/portraits/stasai3.dds"  }
+	#houkai35 = {texturefile = "gfx/models/portraits/stattila1.dds"  }
+	#houkai36 = {texturefile = "gfx/models/portraits/stattila2.dds"  }
+	#houkai37 = {texturefile = "gfx/models/portraits/stattila3.dds"  }
+	#houkai38 = {texturefile = "gfx/models/portraits/stbockla2.dds"  }
+	#houkai39 = {texturefile = "gfx/models/portraits/stbockla3.dds"  }
 	houkai40 = {texturefile = "gfx/models/portraits/stbronyadark1.dds"  }
 	houkai41 = {texturefile = "gfx/models/portraits/stbronyadark2.dds"  }
 	houkai42 = {texturefile = "gfx/models/portraits/stbronyadark3.dds"  }
@@ -46,42 +46,42 @@ portraits = {
 	houkai45 = {texturefile = "gfx/models/portraits/stbronyawitch2.dds"  }
 	houkai46 = {texturefile = "gfx/models/portraits/stbronyawitch3.dds"  }
 	houkai47 = {texturefile = "gfx/models/portraits/stbronyayamabuki.dds"  }
-	houkai48 = {texturefile = "gfx/models/portraits/stcatherine1.dds"  }
-	houkai49 = {texturefile = "gfx/models/portraits/stcatherine3.dds"  }
-	houkai50 = {texturefile = "gfx/models/portraits/sthimekospring.dds"  }
+	#houkai48 = {texturefile = "gfx/models/portraits/stcatherine1.dds"  }
+	#houkai49 = {texturefile = "gfx/models/portraits/stcatherine3.dds"  }
+	#houkai50 = {texturefile = "gfx/models/portraits/sthimekospring.dds"  }
 	houkai51 = {texturefile = "gfx/models/portraits/stcecilia1.dds"  }
 	houkai52 = {texturefile = "gfx/models/portraits/stcecilia2.dds"  }
 	houkai53 = {texturefile = "gfx/models/portraits/stcecilia3.dds"  }
-	houkai54 = {texturefile = "gfx/models/portraits/stcharlemage1.dds"  }
-	houkai55 = {texturefile = "gfx/models/portraits/stcharlemage2.dds"  }
-	houkai56 = {texturefile = "gfx/models/portraits/stcharlemage3.dds"  }
-	houkai57 = {texturefile = "gfx/models/portraits/stdegula1.dds"  }
-	houkai58 = {texturefile = "gfx/models/portraits/stdegula2.dds"  }
-	houkai59 = {texturefile = "gfx/models/portraits/stdegula3.dds"  }
-	houkai60 = {texturefile = "gfx/models/portraits/stedison1.dds"  }
-	houkai61 = {texturefile = "gfx/models/portraits/stedison2.dds"  }
-	houkai62 = {texturefile = "gfx/models/portraits/stedison3.dds"  }
-	houkai63 = {texturefile = "gfx/models/portraits/steinstein1.dds"  }
-	houkai64 = {texturefile = "gfx/models/portraits/steinstein2.dds"  }
-	houkai65 = {texturefile = "gfx/models/portraits/steinstein3.dds"  }
-	houkai66 = {texturefile = "gfx/models/portraits/steinsteinidol1.dds"  }
-	houkai67 = {texturefile = "gfx/models/portraits/steinsteinidol2.dds"  }
-	houkai68 = {texturefile = "gfx/models/portraits/steinsteinidol3.dds"  }
+	#houkai54 = {texturefile = "gfx/models/portraits/stcharlemage1.dds"  }
+	#houkai55 = {texturefile = "gfx/models/portraits/stcharlemage2.dds"  }
+	#houkai56 = {texturefile = "gfx/models/portraits/stcharlemage3.dds"  }
+	#houkai57 = {texturefile = "gfx/models/portraits/stdegula1.dds"  }
+	#houkai58 = {texturefile = "gfx/models/portraits/stdegula2.dds"  }
+	#houkai59 = {texturefile = "gfx/models/portraits/stdegula3.dds"  }
+	#houkai60 = {texturefile = "gfx/models/portraits/stedison1.dds"  }
+	#houkai61 = {texturefile = "gfx/models/portraits/stedison2.dds"  }
+	#houkai62 = {texturefile = "gfx/models/portraits/stedison3.dds"  }
+	#houkai63 = {texturefile = "gfx/models/portraits/steinstein1.dds"  }
+	#houkai64 = {texturefile = "gfx/models/portraits/steinstein2.dds"  }
+	#houkai65 = {texturefile = "gfx/models/portraits/steinstein3.dds"  }
+	#houkai66 = {texturefile = "gfx/models/portraits/steinsteinidol1.dds"  }
+	#houkai67 = {texturefile = "gfx/models/portraits/steinsteinidol2.dds"  }
+	#houkai68 = {texturefile = "gfx/models/portraits/steinsteinidol3.dds"  }
 	houkai69 = {texturefile = "gfx/models/portraits/stelizabeth1.dds"  }
 	houkai70 = {texturefile = "gfx/models/portraits/stelizabeth2.dds"  }
 	houkai71 = {texturefile = "gfx/models/portraits/stelizabeth3.dds"  }
-	houkai72 = {texturefile = "gfx/models/portraits/stfuhua.dds"  }
-	houkai73 = {texturefile = "gfx/models/portraits/stfuhuasummer.dds"  }
+	#houkai72 = {texturefile = "gfx/models/portraits/stfuhua.dds"  }
+	#houkai73 = {texturefile = "gfx/models/portraits/stfuhuasummer.dds"  }
 	houkai74 = {texturefile = "gfx/models/portraits/stfuxi1.dds"  }
 	houkai75 = {texturefile = "gfx/models/portraits/stfuxi2.dds"  }
 	houkai76 = {texturefile = "gfx/models/portraits/stfuxi3.dds"  }
 	houkai77 = {texturefile = "gfx/models/portraits/stgalileo1.dds"  }
-	houkai78 = {texturefile = "gfx/models/portraits/stgalileo2.dds"  }
-	houkai79 = {texturefile = "gfx/models/portraits/stgalileo3.dds"  }
-	houkai80 = {texturefile = "gfx/models/portraits/sthannah1.dds"  }
-	houkai81 = {texturefile = "gfx/models/portraits/sthannah2.dds"  }
-	houkai82 = {texturefile = "gfx/models/portraits/sthannah3.dds"  }
-	houkai83 = {texturefile = "gfx/models/portraits/sthimekosummer.dds"  }
+	#houkai78 = {texturefile = "gfx/models/portraits/stgalileo2.dds"  }
+	#houkai79 = {texturefile = "gfx/models/portraits/stgalileo3.dds"  }
+	#houkai80 = {texturefile = "gfx/models/portraits/sthannah1.dds"  }
+	#houkai81 = {texturefile = "gfx/models/portraits/sthannah2.dds"  }
+	#houkai82 = {texturefile = "gfx/models/portraits/sthannah3.dds"  }
+	#houkai83 = {texturefile = "gfx/models/portraits/sthimekosummer.dds"  }
 	houkai84 = {texturefile = "gfx/models/portraits/stjingwei1.dds"  }
 	houkai85 = {texturefile = "gfx/models/portraits/stjingwei2.dds"  }
 	houkai86 = {texturefile = "gfx/models/portraits/stjingwei3.dds"  }
@@ -90,53 +90,53 @@ portraits = {
 	houkai89 = {texturefile = "gfx/models/portraits/stkallen3.dds"  }
 	houkai90 = {texturefile = "gfx/models/portraits/stkiana.dds"  }
 	houkai91 = {texturefile = "gfx/models/portraits/stkianabeach.dds"  }
-	houkai92 = {texturefile = "gfx/models/portraits/stkianakfc.dds"  }
+	#houkai92 = {texturefile = "gfx/models/portraits/stkianakfc.dds"  }
 	houkai93 = {texturefile = "gfx/models/portraits/stkianalawson.dds"  }
 	houkai94 = {texturefile = "gfx/models/portraits/stkongming1.dds"  }
 	houkai95 = {texturefile = "gfx/models/portraits/stkongming2.dds"  }
 	houkai96 = {texturefile = "gfx/models/portraits/stkongming3.dds"  }
-	houkai97 = {texturefile = "gfx/models/portraits/stliangnaduo1.dds"  }
-	houkai98 = {texturefile = "gfx/models/portraits/stliangnaduo2.dds"  }
-	houkai99 = {texturefile = "gfx/models/portraits/stliangnaduo3.dds"  }
-	houkai100 = {texturefile = "gfx/models/portraits/stlier1.dds"  }
-	houkai101 = {texturefile = "gfx/models/portraits/stlier2.dds"  }
-	houkai102 = {texturefile = "gfx/models/portraits/stlier3.dds"  }
-	houkai103 = {texturefile = "gfx/models/portraits/stlierred1.dds"  }
-	houkai104 = {texturefile = "gfx/models/portraits/stlierred2.dds"  }
-	houkai105 = {texturefile = "gfx/models/portraits/stlierred3.dds"  }
-	houkai106 = {texturefile = "gfx/models/portraits/stlucia1.dds"  }
-	houkai107 = {texturefile = "gfx/models/portraits/stlucia2.dds"  }
-	houkai108 = {texturefile = "gfx/models/portraits/stlucia3.dds"  }
+	#houkai97 = {texturefile = "gfx/models/portraits/stliangnaduo1.dds"  }
+	#houkai98 = {texturefile = "gfx/models/portraits/stliangnaduo2.dds"  }
+	#houkai99 = {texturefile = "gfx/models/portraits/stliangnaduo3.dds"  }
+	#houkai100 = {texturefile = "gfx/models/portraits/stlier1.dds"  }
+	#houkai101 = {texturefile = "gfx/models/portraits/stlier2.dds"  }
+	#houkai102 = {texturefile = "gfx/models/portraits/stlier3.dds"  }
+	#houkai103 = {texturefile = "gfx/models/portraits/stlierred1.dds"  }
+	#houkai104 = {texturefile = "gfx/models/portraits/stlierred2.dds"  }
+	#houkai105 = {texturefile = "gfx/models/portraits/stlierred3.dds"  }
+	#houkai106 = {texturefile = "gfx/models/portraits/stlucia1.dds"  }
+	#houkai107 = {texturefile = "gfx/models/portraits/stlucia2.dds"  }
+	#houkai108 = {texturefile = "gfx/models/portraits/stlucia3.dds"  }
 	houkai109 = {texturefile = "gfx/models/portraits/stluolan1.dds"  }
 	houkai110 = {texturefile = "gfx/models/portraits/stluolan2.dds"  }
 	houkai111 = {texturefile = "gfx/models/portraits/stluolan3.dds"  }
 	houkai112 = {texturefile = "gfx/models/portraits/stmeibeach.dds"  }
 	houkai113 = {texturefile = "gfx/models/portraits/stmeidemon.dds"  }
 	houkai114 = {texturefile = "gfx/models/portraits/stmeiscarlet.dds"  }
-	houkai115 = {texturefile = "gfx/models/portraits/stnagamitsu1.dds"  }
-	houkai116 = {texturefile = "gfx/models/portraits/stnagamitsu2.dds"  }
-	houkai117 = {texturefile = "gfx/models/portraits/stnagamitsu3.dds"  }
+	#houkai115 = {texturefile = "gfx/models/portraits/stnagamitsu1.dds"  }
+	#houkai116 = {texturefile = "gfx/models/portraits/stnagamitsu2.dds"  }
+	#houkai117 = {texturefile = "gfx/models/portraits/stnagamitsu3.dds"  }
 	houkai118 = {texturefile = "gfx/models/portraits/stnewton1.dds"  }
 	houkai119 = {texturefile = "gfx/models/portraits/stnewton2.dds"  }
 	houkai120 = {texturefile = "gfx/models/portraits/stnewton3.dds"  }
-	houkai121 = {texturefile = "gfx/models/portraits/stnohime1.dds"  }
-	houkai122 = {texturefile = "gfx/models/portraits/stnohime2.dds"  }
-	houkai123 = {texturefile = "gfx/models/portraits/stnohime3.dds"  }
+	#houkai121 = {texturefile = "gfx/models/portraits/stnohime1.dds"  }
+	#houkai122 = {texturefile = "gfx/models/portraits/stnohime2.dds"  }
+	#houkai123 = {texturefile = "gfx/models/portraits/stnohime3.dds"  }
 	houkai124 = {texturefile = "gfx/models/portraits/stnvwa1.dds"  }
 	houkai125 = {texturefile = "gfx/models/portraits/stnvwa2.dds"  }
 	houkai126 = {texturefile = "gfx/models/portraits/stnvwa3.dds"  }
-	houkai127 = {texturefile = "gfx/models/portraits/stouweila1.dds"  }
-	houkai128 = {texturefile = "gfx/models/portraits/stouweila2.dds"  }
-	houkai129 = {texturefile = "gfx/models/portraits/stouweila3.dds"  }
+	#houkai127 = {texturefile = "gfx/models/portraits/stouweila1.dds"  }
+	#houkai128 = {texturefile = "gfx/models/portraits/stouweila2.dds"  }
+	#houkai129 = {texturefile = "gfx/models/portraits/stouweila3.dds"  }
 	houkai130 = {texturefile = "gfx/models/portraits/stpicasso1.dds"  }
 	houkai131 = {texturefile = "gfx/models/portraits/stpicasso2.dds"  }
 	houkai132 = {texturefile = "gfx/models/portraits/stpicasso3.dds"  }
-	houkai133 = {texturefile = "gfx/models/portraits/stplanck1.dds"  }
+	#houkai133 = {texturefile = "gfx/models/portraits/stplanck1.dds"  }
 	houkai134 = {texturefile = "gfx/models/portraits/sttheresacn.dds"  }
-	houkai135 = {texturefile = "gfx/models/portraits/stplanck3.dds"  }
-	houkai136 = {texturefile = "gfx/models/portraits/stsakamoto1.dds"  }
-	houkai137 = {texturefile = "gfx/models/portraits/stsakamoto2.dds"  }
-	houkai138 = {texturefile = "gfx/models/portraits/stsakamoto3.dds"  }
+	#houkai135 = {texturefile = "gfx/models/portraits/stplanck3.dds"  }
+	#houkai136 = {texturefile = "gfx/models/portraits/stsakamoto1.dds"  }
+	#houkai137 = {texturefile = "gfx/models/portraits/stsakamoto2.dds"  }
+	#houkai138 = {texturefile = "gfx/models/portraits/stsakamoto3.dds"  }
 	houkai139 = {texturefile = "gfx/models/portraits/stsakura.dds"  }
 	houkai140 = {texturefile = "gfx/models/portraits/stsakura1.dds"  }
 	houkai141 = {texturefile = "gfx/models/portraits/stsakura2.dds"  }
@@ -146,61 +146,61 @@ portraits = {
 	houkai145 = {texturefile = "gfx/models/portraits/stschrodinger1.dds"  }
 	houkai146 = {texturefile = "gfx/models/portraits/stschrodinger2.dds"  }
 	houkai147 = {texturefile = "gfx/models/portraits/stschrodinger3.dds"  }
-	houkai148 = {texturefile = "gfx/models/portraits/stshakespeare1.dds"  }
-	houkai149 = {texturefile = "gfx/models/portraits/stshakespeare2.dds"  }
-	houkai150 = {texturefile = "gfx/models/portraits/stshakespeare3.dds"  }
+	#houkai148 = {texturefile = "gfx/models/portraits/stshakespeare1.dds"  }
+	#houkai149 = {texturefile = "gfx/models/portraits/stshakespeare2.dds"  }
+	#houkai150 = {texturefile = "gfx/models/portraits/stshakespeare3.dds"  }
 	houkai151 = {texturefile = "gfx/models/portraits/stshalianna1.dds"  }
 	houkai152 = {texturefile = "gfx/models/portraits/stshalianna2.dds"  }
 	houkai153 = {texturefile = "gfx/models/portraits/stshalianna3.dds"  }
 	houkai154 = {texturefile = "gfx/models/portraits/stshigure1.dds"  }
 	houkai155 = {texturefile = "gfx/models/portraits/stshigure2.dds"  }
 	houkai156 = {texturefile = "gfx/models/portraits/stshigure3.dds"  }
-	houkai157 = {texturefile = "gfx/models/portraits/sttesla1.dds"  }
-	houkai158 = {texturefile = "gfx/models/portraits/sttesla2.dds"  }
-	houkai159 = {texturefile = "gfx/models/portraits/sttesla3.dds"  }
+	#houkai157 = {texturefile = "gfx/models/portraits/sttesla1.dds"  }
+	#houkai158 = {texturefile = "gfx/models/portraits/sttesla2.dds"  }
+	#houkai159 = {texturefile = "gfx/models/portraits/sttesla3.dds"  }
 	houkai160 = {texturefile = "gfx/models/portraits/sttheresa2.dds"  }
 	houkai161 = {texturefile = "gfx/models/portraits/sttheresa3.dds"  }
 	houkai162 = {texturefile = "gfx/models/portraits/sttheresasummer.dds"  }
-	houkai163 = {texturefile = "gfx/models/portraits/stvictoria1.dds"  }
-	houkai164 = {texturefile = "gfx/models/portraits/stvictoria2.dds"  }
-	houkai165 = {texturefile = "gfx/models/portraits/stvictoria3.dds"  }
-	houkai166 = {texturefile = "gfx/models/portraits/stxier.dds"  }
-	houkai167 = {texturefile = "gfx/models/portraits/stwangzhaojun1.dds"  }
-	houkai168 = {texturefile = "gfx/models/portraits/stwangzhaojun2.dds"  }
-	houkai169 = {texturefile = "gfx/models/portraits/stwangzhaojun3.dds"  }
+	#houkai163 = {texturefile = "gfx/models/portraits/stvictoria1.dds"  }
+	#houkai164 = {texturefile = "gfx/models/portraits/stvictoria2.dds"  }
+	#houkai165 = {texturefile = "gfx/models/portraits/stvictoria3.dds"  }
+	#houkai166 = {texturefile = "gfx/models/portraits/stxier.dds"  }
+	#houkai167 = {texturefile = "gfx/models/portraits/stwangzhaojun1.dds"  }
+	#houkai168 = {texturefile = "gfx/models/portraits/stwangzhaojun2.dds"  }
+	#houkai169 = {texturefile = "gfx/models/portraits/stwangzhaojun3.dds"  }
 	houkai170 = {texturefile = "gfx/models/portraits/stwinterprincess.dds"  }
-	houkai171 = {texturefile = "gfx/models/portraits/stxialuote1.dds"  }
-	houkai172 = {texturefile = "gfx/models/portraits/stxialuote2.dds"  }
-	houkai173 = {texturefile = "gfx/models/portraits/stxialuote3.dds"  }
+	#houkai171 = {texturefile = "gfx/models/portraits/stxialuote1.dds"  }
+	#houkai172 = {texturefile = "gfx/models/portraits/stxialuote2.dds"  }
+	#houkai173 = {texturefile = "gfx/models/portraits/stxialuote3.dds"  }
 	houkai174 = {texturefile = "gfx/models/portraits/stseele1.dds"  }
 	houkai175 = {texturefile = "gfx/models/portraits/stseele2.dds"  }
-	houkai176 = {texturefile = "gfx/models/portraits/stseele3.dds"  }
-	houkai177 = {texturefile = "gfx/models/portraits/stxing1.dds"  }
-	houkai178 = {texturefile = "gfx/models/portraits/stxing2.dds"  }
-	houkai179 = {texturefile = "gfx/models/portraits/stxing3.dds"  }
-	houkai180 = {texturefile = "gfx/models/portraits/stxuanyuan1.dds"  }
-	houkai181 = {texturefile = "gfx/models/portraits/stxuanyuan2.dds"  }
-	houkai182 = {texturefile = "gfx/models/portraits/stxuanyuan3.dds"  }
-	houkai183 = {texturefile = "gfx/models/portraits/stxuanyuanblack1.dds"  }
-	houkai184 = {texturefile = "gfx/models/portraits/stxuanyuanblack2.dds"  }
-	houkai185 = {texturefile = "gfx/models/portraits/stxuanyuanblack3.dds"  }
-	houkai186 = {texturefile = "gfx/models/portraits/stxuanyuanwater1.dds"  }
-	houkai187 = {texturefile = "gfx/models/portraits/stxuanyuanwater3.dds"  }
-	houkai188 = {texturefile = "gfx/models/portraits/styukimura1.dds"  }
-	houkai189 = {texturefile = "gfx/models/portraits/styukimura2.dds"  }
-	houkai190 = {texturefile = "gfx/models/portraits/styukimura3.dds"  }
-	houkai191 = {texturefile = "gfx/models/portraits/stzhangheng1.dds"  }
-	houkai192 = {texturefile = "gfx/models/portraits/stzhangheng2.dds"  }
-	houkai193 = {texturefile = "gfx/models/portraits/stzhangheng3.dds"  }
+	#houkai176 = {texturefile = "gfx/models/portraits/stseele3.dds"  }
+	#houkai177 = {texturefile = "gfx/models/portraits/stxing1.dds"  }
+	#houkai178 = {texturefile = "gfx/models/portraits/stxing2.dds"  }
+	#houkai179 = {texturefile = "gfx/models/portraits/stxing3.dds"  }
+	#houkai180 = {texturefile = "gfx/models/portraits/stxuanyuan1.dds"  }
+	#houkai181 = {texturefile = "gfx/models/portraits/stxuanyuan2.dds"  }
+	#houkai182 = {texturefile = "gfx/models/portraits/stxuanyuan3.dds"  }
+	#houkai183 = {texturefile = "gfx/models/portraits/stxuanyuanblack1.dds"  }
+	#houkai184 = {texturefile = "gfx/models/portraits/stxuanyuanblack2.dds"  }
+	#houkai185 = {texturefile = "gfx/models/portraits/stxuanyuanblack3.dds"  }
+	#houkai186 = {texturefile = "gfx/models/portraits/stxuanyuanwater1.dds"  }
+	#houkai187 = {texturefile = "gfx/models/portraits/stxuanyuanwater3.dds"  }
+	#houkai188 = {texturefile = "gfx/models/portraits/styukimura1.dds"  }
+	#houkai189 = {texturefile = "gfx/models/portraits/styukimura2.dds"  }
+	#houkai190 = {texturefile = "gfx/models/portraits/styukimura3.dds"  }
+	#houkai191 = {texturefile = "gfx/models/portraits/stzhangheng1.dds"  }
+	#houkai192 = {texturefile = "gfx/models/portraits/stzhangheng2.dds"  }
+	#houkai193 = {texturefile = "gfx/models/portraits/stzhangheng3.dds"  }
 	houkai194 = {texturefile = "gfx/models/portraits/ai.dds"  }
-	houkai195 = {texturefile = "gfx/models/portraits/stfuhuahiking.dds"  }
+	#houkai195 = {texturefile = "gfx/models/portraits/stfuhuahiking.dds"  }
 	houkai196 = {texturefile = "gfx/models/portraits/stceciliabeach.dds"  }
-	houkai197 = {texturefile = "gfx/models/portraits/stshirin1.dds"  }
-	houkai198 = {texturefile = "gfx/models/portraits/stgustav1.dds"  }
-	houkai199 = {texturefile = "gfx/models/portraits/stgustav2.dds"  }
-	houkai200 = {texturefile = "gfx/models/portraits/stgustav3.dds"  }
+	#houkai197 = {texturefile = "gfx/models/portraits/stshirin1.dds"  }
+	#houkai198 = {texturefile = "gfx/models/portraits/stgustav1.dds"  }
+	#houkai199 = {texturefile = "gfx/models/portraits/stgustav2.dds"  }
+	#houkai200 = {texturefile = "gfx/models/portraits/stgustav3.dds"  }
 	houkai201 = {texturefile = "gfx/models/portraits/sthigyokumaru1.dds"  }
-	houkai202 = {texturefile = "gfx/models/portraits/sthigyokumaru2.dds"  }
+	#houkai202 = {texturefile = "gfx/models/portraits/sthigyokumaru2.dds"  }
 	houkai203 = {texturefile = "gfx/models/portraits/sthigyokumaru3.dds"  }
 	houkai204 = {texturefile = "gfx/models/portraits/sthubble1.dds"  }
 	houkai205 = {texturefile = "gfx/models/portraits/sthubble2.dds"  }
@@ -208,63 +208,1069 @@ portraits = {
 	houkai207 = {texturefile = "gfx/models/portraits/stkallencarol1.dds"  }
 	houkai208 = {texturefile = "gfx/models/portraits/stkallencarol2.dds"  }
 	houkai209 = {texturefile = "gfx/models/portraits/stkallencarol3.dds"  }
-	houkai200 = {texturefile = "gfx/models/portraits/stkianapizzahut.dds"  }
+	#houkai200 = {texturefile = "gfx/models/portraits/stkianapizzahut.dds"  }
 	houkai201 = {texturefile = "gfx/models/portraits/stkianabeach1.dds"  }
 	houkai202 = {texturefile = "gfx/models/portraits/stkianaflower.dds"  }
 	houkai203 = {texturefile = "gfx/models/portraits/stkianautahime.dds"  }
 	houkai204 = {texturefile = "gfx/models/portraits/stkianajp.dds"  }
 	houkai205 = {texturefile = "gfx/models/portraits/stkianaburst.dds"  }
-	houkai206 = {texturefile = "gfx/models/portraits/stshelley1.dds"  }
-	houkai207 = {texturefile = "gfx/models/portraits/stshelley2.dds"  }
-	houkai208 = {texturefile = "gfx/models/portraits/stshelley3.dds"  }
+	#houkai206 = {texturefile = "gfx/models/portraits/stshelley1.dds"  }
+	#houkai207 = {texturefile = "gfx/models/portraits/stshelley2.dds"  }
+	#houkai208 = {texturefile = "gfx/models/portraits/stshelley3.dds"  }
 	houkai209 = {texturefile = "gfx/models/portraits/stmeiflower.dds"  }
 	houkai210 = {texturefile = "gfx/models/portraits/stmeiband.dds"  }
-	houkai211 = {texturefile = "gfx/models/portraits/stmichelangelo1.dds"  }
-	houkai212 = {texturefile = "gfx/models/portraits/stmichelangelo2.dds"  }
+	#houkai211 = {texturefile = "gfx/models/portraits/stmichelangelo1.dds"  }
+	#houkai212 = {texturefile = "gfx/models/portraits/stmichelangelo2.dds"  }
 	houkai213 = {texturefile = "gfx/models/portraits/stmichelangelo3.dds"  }
-	houkai214 = {texturefile = "gfx/models/portraits/stmonet1.dds"  }
-	houkai215 = {texturefile = "gfx/models/portraits/stmonet2.dds"  }
-	houkai216 = {texturefile = "gfx/models/portraits/stmonet3.dds"  }
-	houkai217 = {texturefile = "gfx/models/portraits/sthimekoteacher.dds"  }
-	houkai218 = {texturefile = "gfx/models/portraits/sthimekocn.dds"  }
-	houkai219 = {texturefile = "gfx/models/portraits/sthimekorose.dds"  }
+	#houkai214 = {texturefile = "gfx/models/portraits/stmonet1.dds"  }
+	#houkai215 = {texturefile = "gfx/models/portraits/stmonet2.dds"  }
+	#houkai216 = {texturefile = "gfx/models/portraits/stmonet3.dds"  }
+	#houkai217 = {texturefile = "gfx/models/portraits/sthimekoteacher.dds"  }
+	#houkai218 = {texturefile = "gfx/models/portraits/sthimekocn.dds"  }
+	#houkai219 = {texturefile = "gfx/models/portraits/sthimekorose.dds"  }
 	houkai220 = {texturefile = "gfx/models/portraits/stschrodingerband1.dds"  }
 	houkai221 = {texturefile = "gfx/models/portraits/stschrodingerband2.dds"  }
 	houkai222 = {texturefile = "gfx/models/portraits/stschrodingerband3.dds"  }
-	houkai223 = {texturefile = "gfx/models/portraits/straffaello1.dds"  }
-	houkai224 = {texturefile = "gfx/models/portraits/straffaello2.dds"  }
-	houkai225 = {texturefile = "gfx/models/portraits/straffaello3.dds"  }
-	houkai226 = {texturefile = "gfx/models/portraits/strossweisse1.dds"  }
-	houkai227 = {texturefile = "gfx/models/portraits/strossweisse2.dds"  }
-	houkai228 = {texturefile = "gfx/models/portraits/strossweisse3.dds"  }
-	houkai229 = {texturefile = "gfx/models/portraits/stakutagawa1.dds"  }
-	houkai230 = {texturefile = "gfx/models/portraits/stakutagawa2.dds"  }
-	houkai231 = {texturefile = "gfx/models/portraits/stakutagawa3.dds"  }
+	#houkai223 = {texturefile = "gfx/models/portraits/straffaello1.dds"  }
+	#houkai224 = {texturefile = "gfx/models/portraits/straffaello2.dds"  }
+	#houkai225 = {texturefile = "gfx/models/portraits/straffaello3.dds"  }
+	#houkai226 = {texturefile = "gfx/models/portraits/strossweisse1.dds"  }
+	#houkai227 = {texturefile = "gfx/models/portraits/strossweisse2.dds"  }
+	#houkai228 = {texturefile = "gfx/models/portraits/strossweisse3.dds"  }
+	#houkai229 = {texturefile = "gfx/models/portraits/stakutagawa1.dds"  }
+	#houkai230 = {texturefile = "gfx/models/portraits/stakutagawa2.dds"  }
+	#houkai231 = {texturefile = "gfx/models/portraits/stakutagawa3.dds"  }
 	houkai232 = {texturefile = "gfx/models/portraits/stseele4.dds"  }
-	houkai233 = {texturefile = "gfx/models/portraits/stshirin2.dds"  }
-	houkai234 = {texturefile = "gfx/models/portraits/stshirin3.dds"  }
+	#houkai233 = {texturefile = "gfx/models/portraits/stshirin2.dds"  }
+	#houkai234 = {texturefile = "gfx/models/portraits/stshirin3.dds"  }
 	houkai235 = {texturefile = "gfx/models/portraits/sttheresacn2.dds"  }
 	houkai236 = {texturefile = "gfx/models/portraits/sttheresabeach.dds"  }
-	houkai237 = {texturefile = "gfx/models/portraits/stzorro1.dds"  }
-	houkai238 = {texturefile = "gfx/models/portraits/stzorro2.dds"  }
-	houkai239 = {texturefile = "gfx/models/portraits/stfuhuacn.dds"  }
-	houkai240 = {texturefile = "gfx/models/portraits/stfuhuacn2.dds"  }
+	#houkai237 = {texturefile = "gfx/models/portraits/stzorro1.dds"  }
+	#houkai238 = {texturefile = "gfx/models/portraits/stzorro2.dds"  }
+	#houkai239 = {texturefile = "gfx/models/portraits/stfuhuacn.dds"  }
+	#houkai240 = {texturefile = "gfx/models/portraits/stfuhuacn2.dds"  }
 	houkai241 = {texturefile = "gfx/models/portraits/stfuhuacn3.dds"  }
-	houkai242 = {texturefile = "gfx/models/portraits/stfuhuacn4.dds"  }
+	#houkai242 = {texturefile = "gfx/models/portraits/stfuhuacn4.dds"  }
 	houkai243 = {texturefile = "gfx/models/portraits/stnvwa4.dds"  }
 	houkai244 = {texturefile = "gfx/models/portraits/stnvwa5.dds"  }
 	houkai245 = {texturefile = "gfx/models/portraits/stnvwa6.dds"  }
-	houkai246 = {texturefile = "gfx/models/portraits/styecaizhang1.dds"  }
-	houkai247 = {texturefile = "gfx/models/portraits/styecaizhang2.dds"  }
-	houkai248 = {texturefile = "gfx/models/portraits/styecaizhang3.dds"  }
-	houkai249 = {texturefile = "gfx/models/portraits/stotto1.dds"  }
-	houkai250 = {texturefile = "gfx/models/portraits/stotto2.dds"  }
-	houkai251 = {texturefile = "gfx/models/portraits/stotto3.dds"  }
+	#houkai246 = {texturefile = "gfx/models/portraits/styecaizhang1.dds"  }
+	#houkai247 = {texturefile = "gfx/models/portraits/styecaizhang2.dds"  }
+	#houkai248 = {texturefile = "gfx/models/portraits/styecaizhang3.dds"  }
+	#houkai249 = {texturefile = "gfx/models/portraits/stotto1.dds"  }
+	#houkai250 = {texturefile = "gfx/models/portraits/stotto2.dds"  }
+	#houkai251 = {texturefile = "gfx/models/portraits/stotto3.dds"  }
 }
 
 portrait_groups = {
-
 "houkai3rd" = {
+        default = houkai194
+        game_setup = {
+			add = {
+				portraits = {
+					houkai1
+					houkai2
+					houkai3
+					houkai4
+					houkai5
+					houkai6
+					houkai7
+					houkai8
+					houkai9
+					houkai10
+					houkai11
+					houkai12
+					houkai13
+					houkai14
+					houkai15
+					houkai16
+					houkai17
+					houkai18
+					houkai19
+					houkai20
+					houkai21
+					houkai22
+					houkai23
+					houkai24
+					houkai25
+					houkai29
+					houkai30
+					houkai31
+					houkai40
+					houkai41
+					houkai42
+					houkai43
+					houkai44
+					houkai45
+					houkai46
+					houkai47
+					houkai51
+					houkai52
+					houkai53
+					houkai69
+					houkai70
+					houkai71
+					houkai74
+					houkai75
+					houkai76
+					houkai77
+					houkai84
+					houkai85
+					houkai86
+					houkai87
+					houkai88
+					houkai89
+					houkai90
+					houkai91
+					houkai93
+					houkai94
+					houkai95
+					houkai96
+					houkai109
+					houkai110
+					houkai111
+					houkai112
+					houkai113
+					houkai114
+					houkai118
+					houkai119
+					houkai120
+					houkai124
+					houkai125
+					houkai126
+					houkai130
+					houkai131
+					houkai132
+					houkai134
+					houkai139
+					houkai140
+					houkai141
+					houkai142
+					houkai143
+					houkai144
+					houkai145
+					houkai146
+					houkai147
+					houkai151
+					houkai152
+					houkai153
+					houkai154
+					houkai155
+					houkai156
+					houkai160
+					houkai161
+					houkai162
+					houkai170
+					houkai174
+					houkai175
+					houkai194
+					houkai196
+					houkai201
+					houkai202
+					houkai203
+					houkai204
+					houkai205
+					houkai206
+					houkai207
+					houkai208
+					houkai209
+					houkai210
+					houkai213
+					houkai220
+					houkai221
+					houkai222
+					houkai232
+					houkai235
+					houkai236
+					houkai241
+					houkai243
+					houkai244
+					houkai245
+				}
+			}
+        }
+        #species scope
+		species = { #generic portrait for a species
+			add = {
+				portraits = {
+
+					houkai1
+					houkai2
+					houkai3
+					houkai4
+					houkai5
+					houkai6
+					houkai7
+					houkai8
+					houkai9
+					houkai10
+					houkai11
+					houkai12
+					houkai13
+					houkai14
+					houkai15
+					houkai16
+					houkai17
+					houkai18
+					houkai19
+					houkai20
+					houkai21
+					houkai22
+					houkai23
+					houkai24
+					houkai25
+					houkai29
+					houkai30
+					houkai31
+					houkai40
+					houkai41
+					houkai42
+					houkai43
+					houkai44
+					houkai45
+					houkai46
+					houkai47
+					houkai51
+					houkai52
+					houkai53
+					houkai69
+					houkai70
+					houkai71
+					houkai74
+					houkai75
+					houkai76
+					houkai77
+					houkai84
+					houkai85
+					houkai86
+					houkai87
+					houkai88
+					houkai89
+					houkai90
+					houkai91
+					houkai93
+					houkai94
+					houkai95
+					houkai96
+					houkai109
+					houkai110
+					houkai111
+					houkai112
+					houkai113
+					houkai114
+					houkai118
+					houkai119
+					houkai120
+					houkai124
+					houkai125
+					houkai126
+					houkai130
+					houkai131
+					houkai132
+					houkai134
+					houkai139
+					houkai140
+					houkai141
+					houkai142
+					houkai143
+					houkai144
+					houkai145
+					houkai146
+					houkai147
+					houkai151
+					houkai152
+					houkai153
+					houkai154
+					houkai155
+					houkai156
+					houkai160
+					houkai161
+					houkai162
+					houkai170
+					houkai174
+					houkai175
+					houkai194
+					houkai196
+					houkai201
+					houkai202
+					houkai203
+					houkai204
+					houkai205
+					houkai206
+					houkai207
+					houkai208
+					houkai209
+					houkai210
+					houkai213
+					houkai220
+					houkai221
+					houkai222
+					houkai232
+					houkai235
+					houkai236
+					houkai241
+					houkai243
+					houkai244
+					houkai245
+				}
+			}
+        }
+        #pop scope
+		pop = { #for a specific pop
+			add = {
+				portraits = {
+					houkai1
+					houkai2
+					houkai3
+					houkai4
+					houkai5
+					houkai6
+					houkai7
+					houkai8
+					houkai9
+					houkai10
+					houkai11
+					houkai12
+					houkai13
+					houkai14
+					houkai15
+					houkai16
+					houkai17
+					houkai18
+					houkai19
+					houkai20
+					houkai21
+					houkai22
+					houkai23
+					houkai24
+					houkai25
+					houkai29
+					houkai30
+					houkai31
+					houkai40
+					houkai41
+					houkai42
+					houkai43
+					houkai44
+					houkai45
+					houkai46
+					houkai47
+					houkai51
+					houkai52
+					houkai53
+					houkai69
+					houkai70
+					houkai71
+					houkai74
+					houkai75
+					houkai76
+					houkai77
+					houkai84
+					houkai85
+					houkai86
+					houkai87
+					houkai88
+					houkai89
+					houkai90
+					houkai91
+					houkai93
+					houkai94
+					houkai95
+					houkai96
+					houkai109
+					houkai110
+					houkai111
+					houkai112
+					houkai113
+					houkai114
+					houkai118
+					houkai119
+					houkai120
+					houkai124
+					houkai125
+					houkai126
+					houkai130
+					houkai131
+					houkai132
+					houkai134
+					houkai139
+					houkai140
+					houkai141
+					houkai142
+					houkai143
+					houkai144
+					houkai145
+					houkai146
+					houkai147
+					houkai151
+					houkai152
+					houkai153
+					houkai154
+					houkai155
+					houkai156
+					houkai160
+					houkai161
+					houkai162
+					houkai170
+					houkai174
+					houkai175
+					houkai194
+					houkai196
+					houkai201
+					houkai202
+					houkai203
+					houkai204
+					houkai205
+					houkai206
+					houkai207
+					houkai208
+					houkai209
+					houkai210
+					houkai213
+					houkai220
+					houkai221
+					houkai222
+					houkai232
+					houkai235
+					houkai236
+					houkai241
+					houkai243
+					houkai244
+					houkai245
+				}
+			}
+        }
+        #leader scope
+		leader = { #scientists, generals, admirals, governor
+			add = {
+				portraits = {
+					houkai1
+					houkai2
+					houkai3
+					houkai4
+					houkai5
+					houkai6
+					houkai7
+					houkai8
+					houkai9
+					houkai10
+					houkai11
+					houkai12
+					houkai13
+					houkai14
+					houkai15
+					houkai16
+					houkai17
+					houkai18
+					houkai19
+					houkai20
+					houkai21
+					houkai22
+					houkai23
+					houkai24
+					houkai25
+					houkai29
+					houkai30
+					houkai31
+					houkai40
+					houkai41
+					houkai42
+					houkai43
+					houkai44
+					houkai45
+					houkai46
+					houkai47
+					houkai51
+					houkai52
+					houkai53
+					houkai69
+					houkai70
+					houkai71
+					houkai74
+					houkai75
+					houkai76
+					houkai77
+					houkai84
+					houkai85
+					houkai86
+					houkai87
+					houkai88
+					houkai89
+					houkai90
+					houkai91
+					houkai93
+					houkai94
+					houkai95
+					houkai96
+					houkai109
+					houkai110
+					houkai111
+					houkai112
+					houkai113
+					houkai114
+					houkai118
+					houkai119
+					houkai120
+					houkai124
+					houkai125
+					houkai126
+					houkai130
+					houkai131
+					houkai132
+					houkai134
+					houkai139
+					houkai140
+					houkai141
+					houkai142
+					houkai143
+					houkai144
+					houkai145
+					houkai146
+					houkai147
+					houkai151
+					houkai152
+					houkai153
+					houkai154
+					houkai155
+					houkai156
+					houkai160
+					houkai161
+					houkai162
+					houkai170
+					houkai174
+					houkai175
+					houkai194
+					houkai196
+					houkai201
+					houkai202
+					houkai203
+					houkai204
+					houkai205
+					houkai206
+					houkai207
+					houkai208
+					houkai209
+					houkai210
+					houkai213
+					houkai220
+					houkai221
+					houkai222
+					houkai232
+					houkai235
+					houkai236
+					houkai241
+					houkai243
+					houkai244
+					houkai245
+				}
+			}
+        }
+    }
+"houkai3rd_mech" = {
+        default = houkai194
+        game_setup = {
+			add = {
+				portraits = {
+					houkai1
+					houkai2
+					houkai3
+					houkai4
+					houkai5
+					houkai6
+					houkai7
+					houkai8
+					houkai9
+					houkai10
+					houkai11
+					houkai12
+					houkai13
+					houkai14
+					houkai15
+					houkai16
+					houkai17
+					houkai18
+					houkai19
+					houkai20
+					houkai21
+					houkai22
+					houkai23
+					houkai24
+					houkai25
+					houkai29
+					houkai30
+					houkai31
+					houkai40
+					houkai41
+					houkai42
+					houkai43
+					houkai44
+					houkai45
+					houkai46
+					houkai47
+					houkai51
+					houkai52
+					houkai53
+					houkai69
+					houkai70
+					houkai71
+					houkai74
+					houkai75
+					houkai76
+					houkai77
+					houkai84
+					houkai85
+					houkai86
+					houkai87
+					houkai88
+					houkai89
+					houkai90
+					houkai91
+					houkai93
+					houkai94
+					houkai95
+					houkai96
+					houkai109
+					houkai110
+					houkai111
+					houkai112
+					houkai113
+					houkai114
+					houkai118
+					houkai119
+					houkai120
+					houkai124
+					houkai125
+					houkai126
+					houkai130
+					houkai131
+					houkai132
+					houkai134
+					houkai139
+					houkai140
+					houkai141
+					houkai142
+					houkai143
+					houkai144
+					houkai145
+					houkai146
+					houkai147
+					houkai151
+					houkai152
+					houkai153
+					houkai154
+					houkai155
+					houkai156
+					houkai160
+					houkai161
+					houkai162
+					houkai170
+					houkai174
+					houkai175
+					houkai194
+					houkai196
+					houkai201
+					houkai202
+					houkai203
+					houkai204
+					houkai205
+					houkai206
+					houkai207
+					houkai208
+					houkai209
+					houkai210
+					houkai213
+					houkai220
+					houkai221
+					houkai222
+					houkai232
+					houkai235
+					houkai236
+					houkai241
+					houkai243
+					houkai244
+					houkai245
+				}
+			}
+        }
+        #species scope
+		species = { #generic portrait for a species
+			add = {
+				portraits = {
+
+					houkai1
+					houkai2
+					houkai3
+					houkai4
+					houkai5
+					houkai6
+					houkai7
+					houkai8
+					houkai9
+					houkai10
+					houkai11
+					houkai12
+					houkai13
+					houkai14
+					houkai15
+					houkai16
+					houkai17
+					houkai18
+					houkai19
+					houkai20
+					houkai21
+					houkai22
+					houkai23
+					houkai24
+					houkai25
+					houkai29
+					houkai30
+					houkai31
+					houkai40
+					houkai41
+					houkai42
+					houkai43
+					houkai44
+					houkai45
+					houkai46
+					houkai47
+					houkai51
+					houkai52
+					houkai53
+					houkai69
+					houkai70
+					houkai71
+					houkai74
+					houkai75
+					houkai76
+					houkai77
+					houkai84
+					houkai85
+					houkai86
+					houkai87
+					houkai88
+					houkai89
+					houkai90
+					houkai91
+					houkai93
+					houkai94
+					houkai95
+					houkai96
+					houkai109
+					houkai110
+					houkai111
+					houkai112
+					houkai113
+					houkai114
+					houkai118
+					houkai119
+					houkai120
+					houkai124
+					houkai125
+					houkai126
+					houkai130
+					houkai131
+					houkai132
+					houkai134
+					houkai139
+					houkai140
+					houkai141
+					houkai142
+					houkai143
+					houkai144
+					houkai145
+					houkai146
+					houkai147
+					houkai151
+					houkai152
+					houkai153
+					houkai154
+					houkai155
+					houkai156
+					houkai160
+					houkai161
+					houkai162
+					houkai170
+					houkai174
+					houkai175
+					houkai194
+					houkai196
+					houkai201
+					houkai202
+					houkai203
+					houkai204
+					houkai205
+					houkai206
+					houkai207
+					houkai208
+					houkai209
+					houkai210
+					houkai213
+					houkai220
+					houkai221
+					houkai222
+					houkai232
+					houkai235
+					houkai236
+					houkai241
+					houkai243
+					houkai244
+					houkai245
+				}
+			}
+        }
+        #pop scope
+		pop = { #for a specific pop
+			add = {
+				portraits = {
+					houkai1
+					houkai2
+					houkai3
+					houkai4
+					houkai5
+					houkai6
+					houkai7
+					houkai8
+					houkai9
+					houkai10
+					houkai11
+					houkai12
+					houkai13
+					houkai14
+					houkai15
+					houkai16
+					houkai17
+					houkai18
+					houkai19
+					houkai20
+					houkai21
+					houkai22
+					houkai23
+					houkai24
+					houkai25
+					houkai29
+					houkai30
+					houkai31
+					houkai40
+					houkai41
+					houkai42
+					houkai43
+					houkai44
+					houkai45
+					houkai46
+					houkai47
+					houkai51
+					houkai52
+					houkai53
+					houkai69
+					houkai70
+					houkai71
+					houkai74
+					houkai75
+					houkai76
+					houkai77
+					houkai84
+					houkai85
+					houkai86
+					houkai87
+					houkai88
+					houkai89
+					houkai90
+					houkai91
+					houkai93
+					houkai94
+					houkai95
+					houkai96
+					houkai109
+					houkai110
+					houkai111
+					houkai112
+					houkai113
+					houkai114
+					houkai118
+					houkai119
+					houkai120
+					houkai124
+					houkai125
+					houkai126
+					houkai130
+					houkai131
+					houkai132
+					houkai134
+					houkai139
+					houkai140
+					houkai141
+					houkai142
+					houkai143
+					houkai144
+					houkai145
+					houkai146
+					houkai147
+					houkai151
+					houkai152
+					houkai153
+					houkai154
+					houkai155
+					houkai156
+					houkai160
+					houkai161
+					houkai162
+					houkai170
+					houkai174
+					houkai175
+					houkai194
+					houkai196
+					houkai201
+					houkai202
+					houkai203
+					houkai204
+					houkai205
+					houkai206
+					houkai207
+					houkai208
+					houkai209
+					houkai210
+					houkai213
+					houkai220
+					houkai221
+					houkai222
+					houkai232
+					houkai235
+					houkai236
+					houkai241
+					houkai243
+					houkai244
+					houkai245
+				}
+			}
+        }
+        #leader scope
+		leader = { #scientists, generals, admirals, governor
+			add = {
+				portraits = {
+					houkai1
+					houkai2
+					houkai3
+					houkai4
+					houkai5
+					houkai6
+					houkai7
+					houkai8
+					houkai9
+					houkai10
+					houkai11
+					houkai12
+					houkai13
+					houkai14
+					houkai15
+					houkai16
+					houkai17
+					houkai18
+					houkai19
+					houkai20
+					houkai21
+					houkai22
+					houkai23
+					houkai24
+					houkai25
+					houkai29
+					houkai30
+					houkai31
+					houkai40
+					houkai41
+					houkai42
+					houkai43
+					houkai44
+					houkai45
+					houkai46
+					houkai47
+					houkai51
+					houkai52
+					houkai53
+					houkai69
+					houkai70
+					houkai71
+					houkai74
+					houkai75
+					houkai76
+					houkai77
+					houkai84
+					houkai85
+					houkai86
+					houkai87
+					houkai88
+					houkai89
+					houkai90
+					houkai91
+					houkai93
+					houkai94
+					houkai95
+					houkai96
+					houkai109
+					houkai110
+					houkai111
+					houkai112
+					houkai113
+					houkai114
+					houkai118
+					houkai119
+					houkai120
+					houkai124
+					houkai125
+					houkai126
+					houkai130
+					houkai131
+					houkai132
+					houkai134
+					houkai139
+					houkai140
+					houkai141
+					houkai142
+					houkai143
+					houkai144
+					houkai145
+					houkai146
+					houkai147
+					houkai151
+					houkai152
+					houkai153
+					houkai154
+					houkai155
+					houkai156
+					houkai160
+					houkai161
+					houkai162
+					houkai170
+					houkai174
+					houkai175
+					houkai194
+					houkai196
+					houkai201
+					houkai202
+					houkai203
+					houkai204
+					houkai205
+					houkai206
+					houkai207
+					houkai208
+					houkai209
+					houkai210
+					houkai213
+					houkai220
+					houkai221
+					houkai222
+					houkai232
+					houkai235
+					houkai236
+					houkai241
+					houkai243
+					houkai244
+					houkai245
+				}
+			}
+        }
+    }
+
+"houkai3rd_filtered" = {
         default = houkai194
         game_setup = {
 			add = {
@@ -1296,4 +2302,5 @@ portrait_groups = {
 			}
         }
     }
+
 }

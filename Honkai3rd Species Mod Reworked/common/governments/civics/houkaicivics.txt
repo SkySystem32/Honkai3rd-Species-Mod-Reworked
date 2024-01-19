@@ -11,9 +11,11 @@ civic_apocalypsehouse = {
 	}
 	
 	modifier = {
+
 		edict_length_mult = 0.25
+		country_edict_fund_mult = 0.25
 		pop_government_ethic_attraction = 0.15
-		country_unity_produces_mult = 0.05
+		country_unity_produces_mult = 0.25
 	}
 }
 

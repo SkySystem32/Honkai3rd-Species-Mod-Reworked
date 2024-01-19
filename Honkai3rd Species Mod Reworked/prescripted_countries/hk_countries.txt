@@ -1,6 +1,7 @@
 #天命星际教廷
 schicksal={
-	key="schicksal"
+	# key="schicksal"
+
 	ship_prefix="SSF"
 	species={
 		class="Houkai3rd"
@@ -47,7 +48,7 @@ schicksal={
 		name="PRESCRIPTED_ruler_name_schicksal"
 		portrait="houkai251"
 		texture=0
-		hair=0
+		# hair=0
 		clothes=0
 		ruler_title="PRESCRIPTED_ruler_title_schicksal"
 		leader_class="ruler"

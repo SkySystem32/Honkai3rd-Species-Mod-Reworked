@@ -15,7 +15,6 @@ honkai_worker = {
 
 	possible_precalc = can_fill_specialist_job
 
-
 	possible = {
 		complex_specialist_job_check_trigger = yes
 	}
@@ -27,8 +26,8 @@ honkai_worker = {
 			honkai_energy = 0.5
 		}
 		upkeep = {
-			food = 1
-			consumer_goods = 1
+			food = 4
+			# consumer_goods = 1
 		}
 	}
 	
